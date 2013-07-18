@@ -1,0 +1,258 @@
+\begin{thebibliography}{10}
+
+\bibitem{5773392}
+L.~Baresi and M.~Miraz.
+\newblock A component-oriented metamodel for the modernization of software
+  applications.
+\newblock In {\em Engineering of Complex Computer Systems (ICECCS), 2011 16th
+  IEEE International Conference on}, pages 179--187, 2011.
+
+\bibitem{6385130}
+G.~Boussaidi, A.~Belle, S.~Vaucher, and H.~Mili.
+\newblock Reconstructing architectural views from legacy systems.
+\newblock In {\em Reverse Engineering (WCRE), 2012 19th Working Conference on},
+  pages 345--354, 2012.
+
+\bibitem{Bruneliere:2010:MGE:1858996.1859032}
+H.~Bruneliere, J.~Cabot, F.~Jouault, and F.~Madiot.
+\newblock Modisco: a generic and extensible framework for model driven reverse
+  engineering.
+\newblock In {\em Proceedings of the IEEE/ACM international conference on
+  Automated software engineering}, ASE '10, pages 173--174. ACM, 2010.
+
+\bibitem{delCastillo:2009:PRP:1529282.1529753}
+R.~P. del Castillo, I.~Garc\'{\i}a-Rodr\'{\i}guez, and I.~Caballero.
+\newblock Preciso: a reengineering process and a tool for database
+  modernisation through web services.
+\newblock In {\em Proceedings of the 2009 ACM symposium on Applied Computing},
+  SAC '09, pages 2126--2133, New York, NY, USA, 2009. ACM.
+
+\bibitem{Durelli:2013:SRM:2480486.2480567}
+R.~S. Durelli, D.~S.~M. Santib\'{a}\~{n}ez, N.~Anquetil, M.~E. Delamaro, and
+  V.~V. de~Camargo.
+\newblock A systematic review on mining techniques for crosscutting concerns.
+\newblock In {\em Proceedings of the 28th Annual ACM Symposium on Applied
+  Computing}, pages 1080--1087, New York, NY, USA, 2013. ACM.
+
+\bibitem{Dyba}
+T.~Dyba, T.~Dingsoyr, and G.~K. Hanssen.
+\newblock Applying systematic reviews to diverse study types.
+\newblock In {\em International Symposium on Empirical Software Engineering and
+  Measurement}, ESEM '07, pages 225--234, Washington, DC, USA, 2007. IEEE
+  Computer Society.
+
+\bibitem{Fernandez-Ropero:2012:EAB:2367051.2367064}
+M.~Fern\'{a}ndez-Ropero, R.~P{\'e}rez-Castillo, B.~Weber, and M.~Piattini.
+\newblock Empirical assessment of business model transformations based on model
+  simulation.
+\newblock In {\em Proceedings of the 5th international conference on Theory and
+  Practice of Model Transformations}, ICMT'12, pages 137--151, Berlin,
+  Heidelberg, 2012. Springer-Verlag.
+
+\bibitem{5741334}
+S.~Frey and W.~Hasselbring.
+\newblock An extensible architecture for detecting violations of a cloud
+  environment's constraints during legacy software system migration.
+\newblock In {\em Software Maintenance and Reengineering (CSMR), 2011 15th
+  European Conference on}, pages 269--278, 2011.
+
+\bibitem{SMR:SMR582}
+S.~Frey, W.~Hasselbring, and B.~Schnoor.
+\newblock Automatic conformance checking for migrating software systems to
+  cloud infrastructures and platforms.
+\newblock {\em Journal of Software: Evolution and Process}, 2012.
+
+\bibitem{cau15393}
+S.~Frey, A.~van Hoorn, R.~Jung, B.~Kiel, and W.~Hasselbring.
+\newblock Mamba: Model-based software analysis utilizing omg's smm.
+\newblock In {\em Workshop Software-Reengineering (WSR '12)}, pages 37--38, May
+  2012.
+
+\bibitem{FuentesFernandez2012247}
+R.~Fuentes-Fernandez, J.~Pavon, and F.~Garijo.
+\newblock A model-driven process for the modernization of component-based
+  systems.
+\newblock {\em Science of Computer Programming}, 77(3):247 -- 269, 2012.
+
+\bibitem{4400179}
+I.~Garcia-Rodriguez~de Guzman.
+\newblock Pressweb: A process to reengineer legacy systems towards web
+  services.
+\newblock In {\em Reverse Engineering, 2007. WCRE 2007. 14th Working Conference
+  on}, pages 285--288, 2007.
+
+\bibitem{Guzman:2007:AAR:1339262.1339532}
+I.~G.-R.~d. Guzman, M.~Polo, and M.~Piattini.
+\newblock An adm approach to reengineer relational databases towards web
+  services.
+\newblock In {\em Proceedings of the 14th Working Conference on Reverse
+  Engineering}, WCRE '07, pages 90--99, Washington, DC, USA, 2007. IEEE
+  Computer Society.
+
+\bibitem{5440163}
+J.~Izquierdo and J.~Molina.
+\newblock An architecture-driven modernization tool for calculating metrics.
+\newblock {\em Software, IEEE}, 27(4):37--43, 2010.
+
+\bibitem{Kellens}
+A.~Kellens, K.~Mens, and P.~Tonella.
+\newblock Transactions on aspect-oriented software development iv.
+\newblock chapter A survey of automated code-level aspect mining techniques,
+  pages 143--162. Berlin, Heidelberg, 2007.
+
+\bibitem{Kitchenham}
+B.~Kitchenham, O.~Pearl~Brereton, D.~Budgen, M.~Turner, J.~Bailey, and
+  S.~Linkman.
+\newblock Systematic literature reviews in software engineering.
+\newblock {\em Information and Software Technology}, 51:7--15, January 2009.
+
+\bibitem{Mainetti:2012:MMT:2364120.2364182}
+L.~Mainetti, R.~Paiano, and A.~Pandurino.
+\newblock Migros: a model-driven transformation approach of the user experience
+  of legacy applications.
+\newblock In {\em Proceedings of the 12th international conference on Web
+  Engineering}, ICWE'12, pages 490--493, Berlin, Heidelberg, 2012.
+  Springer-Verlag.
+
+\bibitem{Malheiros:2007}
+V.~Malheiros, E.~Hohn, R.~Pinho, M.~Mendonca, and J.~C. Maldonado.
+\newblock A visual text mining approach for systematic reviews.
+\newblock In {\em Proceedings of the First International Symposium on Empirical
+  Software Engineering and Measurement}, ESEM '07, pages 245--254, Washington,
+  DC, USA, 2007. IEEE Computer Society.
+
+\bibitem{Mazon:2007:MDM:1784489.1784497}
+J.-N. Maz\'{o}n and J.~Trujillo.
+\newblock A model driven modernization approach for automatically deriving
+  multidimensional models in data warehouses.
+\newblock In {\em Proceedings of the 26th international conference on
+  Conceptual modeling}, ER'07, pages 56--71, Berlin, Heidelberg, 2007.
+  Springer-Verlag.
+
+\bibitem{Mehmood:2013:AMC:2400747.2401009}
+A.~Mehmood and D.~N.~A. Jawawi.
+\newblock Aspect-oriented model-driven code generation: A systematic mapping
+  study.
+\newblock {\em Inf. Softw. Technol.}, pages 395--411, 2013.
+
+\bibitem{6311013}
+J.~Moratalla, V.~de~Castro, M.~Sanz, and E.~Marcos.
+\newblock A gap-analysis-based framework for evolution and modernization:
+  Modernization of domain management at red.es.
+\newblock In {\em SRII Global Conference (SRII), 2012 Annual}, pages 343--352,
+  2012.
+
+\bibitem{Normantas:2012:OKD:2383276.2383286}
+K.~Normantas, S.~Sosunovas, and O.~Vasilecas.
+\newblock An overview of the knowledge discovery meta-model.
+\newblock In {\em Proceedings of the 13th International Conference on Computer
+  Systems and Technologies}, pages 52--57, New York, NY, USA, 2012. ACM.
+
+\bibitem{lastDAyOFMyLife}
+K.~Normantas and O.~Vasilecas.
+\newblock Extracting business rules from existing enterprise software system.
+\newblock In {\em Information and Software Technologies}, Communications in
+  Computer and Information Science, pages 482--496. Springer Berlin Heidelberg,
+  2012.
+
+\bibitem{ICEISPerez:CastilloGCP12}
+R.~P{\'e}rez-Castillo, I.~G.~R. de~Guzm{\'a}n, D.~Caivano, and M.~Piattini.
+\newblock Database schema elicitation to modernize relational databases.
+\newblock In {\em ICEIS}, pages 126--132, 2012.
+
+\bibitem{Perez-Castillo:2010:IBP:1875847.1875861}
+R.~P{\'e}rez-Castillo, I.~G.-R. De~Guzm\'{a}n, and M.~Piattini.
+\newblock Implementing business process recovery patterns through qvt
+  transformations.
+\newblock In {\em Proceedings of the Third international conference on Theory
+  and practice of model transformations}, pages 168--183. Springer-Verlag,
+  2010.
+
+\bibitem{Perez-Castillo:2012:IEL:2231936.2231949}
+R.~P{\'e}rez-Castillo, I.~G.-R. de~Guzm\'{a}n, M.~Piattini, and B.~Weber.
+\newblock Integrating event logs into kdm repositories.
+\newblock In {\em Proceedings of the 27th Annual ACM Symposium on Applied
+  Computing}, SAC '12, pages 1095--1102, New York, NY, USA, 2012. ACM.
+
+\bibitem{Perez-Castillo:2011:ECS:1982185.1982249}
+R.~P{\'e}rez-Castillo, I.~G.-R. de~Guzm\'{a}n, M.~Piattini, B.~Weber, and A.~S.
+  Places.
+\newblock An empirical comparison of static and dynamic business process
+  mining.
+\newblock In {\em Proceedings of the 2011 ACM Symposium on Applied Computing},
+  SAC '11, pages 272--279, New York, NY, USA, 2011. ACM.
+
+\bibitem{6080834}
+R.~Perez-Castillo, M.~Fernandez-Ropero, I.~Garcia-Rodriguez~de Guzman, and
+  M.~Piattini.
+\newblock Marble. a business process archeology tool.
+\newblock In {\em Software Maintenance (ICSM), 2011 27th IEEE International
+  Conference on}, pages 578--581, 2011.
+
+\bibitem{6498507}
+R.~Perez-Castillo, I.~Garcia-Rodriguez~de Guzman, and M.~Piattini.
+\newblock Mimos, system model-driven migration project.
+\newblock In {\em Software Maintenance and Reengineering (CSMR), 2013 17th
+  European Conference on}, pages 445--448, 2013.
+
+\bibitem{5328801}
+R.~Perez-Castillo, I.~Garcia Rodriguez~de Guzman, M.~Piattini, and M.~Piattini.
+\newblock On the use of adm to contextualize data on legacy source code for
+  software modernization.
+\newblock In {\em Reverse Engineering, 2009. WCRE '09. 16th Working Conference
+  on}, pages 128--132, 2009.
+
+\bibitem{5871783}
+R.~Perez-Castillo, B.~Weber, I.-R. de~Guzman, and M.~Piattini.
+\newblock Process mining through dynamic analysis for modernising legacy
+  systems.
+\newblock {\em Software, IET}, 5(3):304--319, 2011.
+
+\bibitem{Petersen:2008:SMS:2227115.2227123}
+K.~Petersen, R.~Feldt, S.~Mujtaba, and M.~Mattsson.
+\newblock Systematic mapping studies in software engineering.
+\newblock In {\em Proceedings of the 12th international conference on
+  Evaluation and Assessment in Software Engineering}, pages 68--77, 2008.
+
+\bibitem{PerezCastillo20121370}
+R.~Pérez-Castillo, J.~A. Cruz-Lemus, I.~G.-R. de~Guzmán, and M.~Piattini.
+\newblock A family of case studies on business process mining using marble.
+\newblock {\em Systems and Software}, 85(6):1370 -- 1385, 2012.
+
+\bibitem{PrezCastillo2011519}
+R.~Pérez-Castillo, I.~G.-R. de~Guzmán, and M.~Piattini.
+\newblock Knowledge discovery metamodel-iso/iec 19506: A standard to modernize
+  legacy systems.
+\newblock {\em Computer Standards & Interfaces}, 33(6):519 -- 532, 2011.
+
+\bibitem{Rodriguez-Echeverria:2011:MLW:2186508.2186536}
+R.~Rodr\'{\i}guez-Echeverr\'{\i}a, J.~M. Conejero, P.~J. Clemente, J.~C.
+  Preciado, and F.~S\$\#225;nchez-Figueroa.
+\newblock Modernization of legacy web applications into rich internet
+  applications.
+\newblock In {\em Proceedings of the 11th international conference on Current
+  Trends in Web Engineering}, pages 236--250, Berlin, Heidelberg, 2012.
+  Springer-Verlag.
+
+\bibitem{Tu:2011:HRD:2048476.2048482}
+Z.~Tu, G.~Zacharewicz, and D.~Chen.
+\newblock Harmonized and reversible development framework for hla based
+  interoperable application.
+\newblock In {\em Proceedings of the 2011 Symposium on Theory of Modeling \&
+  Simulation: DEVS Integrative M\&S Symposium}, pages 51--58, San Diego, CA,
+  USA, 2011.
+
+\bibitem{Wieringa:2005:REP:1107677.1107683}
+R.~Wieringa, N.~Maiden, N.~Mead, and C.~Rolland.
+\newblock Requirements engineering paper classification and evaluation
+  criteria: a proposal and a discussion.
+\newblock pages 102--107, 2005.
+
+\bibitem{6080786}
+A.~R. Yazdanshenas and L.~Moonen.
+\newblock Crossing the boundaries while analyzing heterogeneous component-based
+  software systems.
+\newblock In {\em Software Maintenance (ICSM), 2011 27th IEEE International
+  Conference on}, pages 193--202, 2011.
+
+\end{thebibliography}

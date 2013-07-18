@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: TSWLatexianTemp_000082.aux
+The style file: abbrv.bst
+Database file #1: acmSac2013.bib
+Warning--I didn't find a database entry for "Ulrich:2010:IST:1841736"
+Warning--I didn't find a database entry for "1686216"
+Warning--I didn't find a database entry for "OMGADM"
+Warning--empty booktitle in Kellens
+Warning--empty publisher in Kellens
+Warning--empty journal in Wieringa:2005:REP:1107677.1107683
+You've used 38 entries,
+            2118 wiz_defined-function locations,
+            754 strings with 13783 characters,
+and the built_in function-call counts, 17901 in all, are:
+= -- 1841
+> -- 763
+< -- 32
++ -- 310
+- -- 260
+* -- 1186
+:= -- 2651
+add.period$ -- 130
+call.type$ -- 38
+change.case$ -- 244
+chr.to.int$ -- 0
+cite$ -- 41
+duplicate$ -- 778
+empty$ -- 1400
+format.name$ -- 260
+if$ -- 4047
+int.to.chr$ -- 0
+int.to.str$ -- 38
+missing$ -- 38
+newline$ -- 193
+num.names$ -- 76
+pop$ -- 285
+preamble$ -- 1
+purify$ -- 206
+quote$ -- 0
+skip$ -- 644
+stack$ -- 0
+substring$ -- 1265
+swap$ -- 325
+text.length$ -- 32
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 152
+warning$ -- 3
+while$ -- 165
+width$ -- 40
+write$ -- 457
+(There were 6 warnings)
