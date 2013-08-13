@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  18 JUL 2013 15:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  13 AUG 2013 15:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -351,72 +351,6 @@ Package: cite 2010/09/10  v 5.3
 Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
 \@enLab=\toks36
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/mwe/mwe.sty
-Package: mwe 2012/05/15 v0.3 Package to support minimal working examples (MWE)
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/lipsum/lipsum.sty
-Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count119
-)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/blindtext/blindtext.sty
-Package: blindtext 2012/01/06 V2.0 blindtext-Package
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/xspace.sty
-Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
-)
-\c@blindtext=\count120
-\c@Blindtext=\count121
-\c@blind@countparstart=\count122
-\blind@countxx=\count123
-\blindtext@numBlindtext=\count124
-\blind@countyy=\count125
-\c@blindlist=\count126
-\c@blindlistlevel=\count127
-\c@blindlist@level=\count128
-\blind@listitem=\count129
-\c@blind@listcount=\count130
-\c@blind@levelcount=\count131
-\blind@mathformula=\count132
-\blind@Mathformula=\count133
-\c@blind@randomcount=\count134
-\c@blind@randommax=\count135
-\c@blind@pangramcount=\count136
-\c@blind@pangrammax=\count137
-))
-(/usr/local/texlive/2012/texmf-dist/tex/latex/rotating/rotating.sty
-Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
-)
-\c@r@tfl@t=\count138
-\rotFPtop=\skip45
-\rotFPbot=\skip46
-\rot@float@box=\box30
-\rot@mess@toks=\toks37
-)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/array.sty
-Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen126
-\extrarowheight=\dimen127
-\NC@list=\toks38
-\extratabsurround=\skip47
-\backup@length=\skip48
-)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package color Info: Driver file: pdftex.def on input line 130.
-)
-\everycr=\toks39
-\minrowclearance=\skip49
-)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
@@ -425,14 +359,14 @@ Package: caption 2012/02/19 v3.2f Customizing captions (AR)
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
-\captionmargin=\dimen128
-\captionmargin@=\dimen129
-\captionwidth=\dimen130
-\caption@indent=\dimen131
-\caption@parindent=\dimen132
-\caption@hangindent=\dimen133
-\abovecaptionskip=\skip50
-\belowcaptionskip=\skip51
+\captionmargin=\dimen126
+\captionmargin@=\dimen127
+\captionwidth=\dimen128
+\caption@indent=\dimen129
+\caption@parindent=\dimen130
+\caption@hangindent=\dimen131
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
 Package caption Info: Unknown document class (or package),
 (caption)             standard defaults will be used.
 )
@@ -444,24 +378,89 @@ See the caption package documentation for explanation.
 Package caption Info: \@makecaption = \long macro:#1#2-> \vskip 10pt \setbox \@
 tempboxa \hbox {\textbf {#1: #2}} \ifdim \wd \@tempboxa >\hsize \textbf {#1: #2
 }\par \else \hbox to\hsize {\hfil \box \@tempboxa \hfil } \fi .
-\c@ContinuedFloat=\count139
+\c@ContinuedFloat=\count119
 Package caption Info: hyperref package is loaded.
-Package caption Info: rotating package is loaded.
 )
-\c@KVtest=\count140
-\sf@farskip=\skip52
-\sf@captopadj=\dimen134
-\sf@capskip=\skip53
-\sf@nearskip=\skip54
-\c@subfigure=\count141
-\c@subfigure@save=\count142
-\c@lofdepth=\count143
-\c@subtable=\count144
-\c@subtable@save=\count145
-\c@lotdepth=\count146
-\sf@top=\skip55
-\sf@bottom=\skip56
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/base/fixltx2e.sty
+\c@KVtest=\count120
+\sf@farskip=\skip47
+\sf@captopadj=\dimen132
+\sf@capskip=\skip48
+\sf@nearskip=\skip49
+\c@subfigure=\count121
+\c@subfigure@save=\count122
+\c@lofdepth=\count123
+\c@subtable=\count124
+\c@subtable@save=\count125
+\c@lotdepth=\count126
+\sf@top=\skip50
+\sf@bottom=\skip51
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/mwe/mwe.sty
+Package: mwe 2012/05/15 v0.3 Package to support minimal working examples (MWE)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count127
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count128
+\c@Blindtext=\count129
+\c@blind@countparstart=\count130
+\blind@countxx=\count131
+\blindtext@numBlindtext=\count132
+\blind@countyy=\count133
+\c@blindlist=\count134
+\c@blindlistlevel=\count135
+\c@blindlist@level=\count136
+\blind@listitem=\count137
+\c@blind@listcount=\count138
+\c@blind@levelcount=\count139
+\blind@mathformula=\count140
+\blind@Mathformula=\count141
+\c@blind@randomcount=\count142
+\c@blind@randommax=\count143
+\c@blind@pangramcount=\count144
+\c@blind@pangrammax=\count145
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count146
+\rotFPtop=\skip52
+\rotFPbot=\skip53
+\rot@float@box=\box30
+\rot@mess@toks=\toks37
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen133
+\extrarowheight=\dimen134
+\NC@list=\toks38
+\extratabsurround=\skip54
+\backup@length=\skip55
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+\everycr=\toks39
+\minrowclearance=\skip56
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/fixltx2e.sty
 Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
 LaTeX Info: Redefining \em on input line 420.
 LaTeX Info: The control sequence `\[' is already robust on input line 471.
@@ -601,20 +600,20 @@ Package: threeparttable 2003/06/13  v 3.0
 ) (./tex/defines.tex) (./adm-kdm.aux)
 \openout1 = `adm-kdm.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
 
 (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -650,7 +649,7 @@ e
 Package hyperref Warning: Height of page (\paperheight) is invalid (0.0pt),
 (hyperref)                using 11in.
 
-Package hyperref Info: Link coloring OFF on input line 77.
+Package hyperref Info: Link coloring OFF on input line 78.
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -659,12 +658,13 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count175
 )
-LaTeX Info: Redefining \ref on input line 77.
-LaTeX Info: Redefining \pageref on input line 77.
-LaTeX Info: Redefining \nameref on input line 77.
+LaTeX Info: Redefining \ref on input line 78.
+LaTeX Info: Redefining \pageref on input line 78.
+LaTeX Info: Redefining \nameref on input line 78.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count176
@@ -683,160 +683,71 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 169.
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Overfull \hbox (31.64992pt too wide) in paragraph at lines 169--169
- []\eaddfnt daniel.santibanez@dc.ufscar.br| 
- []
 
-(./tex/abstract.tex) (./tex/introduction.tex) (./tex/background_ADM.tex
-Overfull \hbox (10.18608pt too wide) in paragraph at lines 1--2
-[]\T1/aer/m/n/9 In this sec-tion we pro-vide a brief back-ground to Architectur
-e-
- []
+LaTeX Warning: No \author given.
 
-
-Overfull \hbox (1.76118pt too wide) in paragraph at lines 1--2
-\T1/aer/m/n/9 Driven Mod-ern-iza-tion (ADM) pre-sent-ing the core ideas. Fur-
- []
-
+(./tex/abstract.tex) (./tex/introduction.tex
 
 LaTeX Warning: Citation `Ulrich:2010:IST:1841736' on page \thepage  undefined o
 n input line 5.
 
-<figuras/Fonte_horse_shoe.pdf, id=5, 578.66158pt x 243.39452pt>
-File: figuras/Fonte_horse_shoe.pdf Graphic file (type pdf)
 
-<use figuras/Fonte_horse_shoe.pdf>
-Package pdftex.def Info: figuras/Fonte_horse_shoe.pdf used on input line 11.
-(pdftex.def)             Requested size: 231.46053pt x 97.35608pt.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-LaTeX Warning: Citation `Ulrich:2010:IST:1841736' on page \thepage  undefined o
-n input line 12.
-
-
-LaTeX Warning: Citation `Ulrich:2010:IST:1841736' on page \thepage  undefined o
-n input line 12.
-
-[1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
- <./figuras/Fonte_horse_shoe.pdf>] <figuras/ASTM.png, id=81, 417.56pt x 287.072
-5pt>
-File: figuras/ASTM.png Graphic file (type png)
-
-<use figuras/ASTM.png>
-Package pdftex.def Info: figuras/ASTM.png used on input line 31.
-(pdftex.def)             Requested size: 233.83199pt x 160.75949pt.
-
-
-LaTeX Warning: Citation `1686216' on page \thepage  undefined on input line 40.
-
-
-
-LaTeX Warning: Citation `Ulrich:2010:IST:1841736' on page \thepage  undefined o
-n input line 40.
-
-<figuras/kdm.pdf, id=84, 378.41376pt x 198.7425pt>
-File: figuras/kdm.pdf Graphic file (type pdf)
- <use figuras/kdm.pdf>
-Package pdftex.def Info: figuras/kdm.pdf used on input line 45.
-(pdftex.def)             Requested size: 253.53589pt x 133.15677pt.
-
-Overfull \hbox (13.53589pt too wide) in paragraph at lines 45--46
- [][] 
- []
-
-
-LaTeX Warning: Citation `Ulrich:2010:IST:1841736' on page \thepage  undefined o
-n input line 46.
-
-
-LaTeX Warning: Citation `Ulrich:2010:IST:1841736' on page \thepage  undefined o
-n input line 46.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.55 
-      [2 <./figuras/ASTM.png> <./figuras/kdm.pdf>]
-<figuras/ProgramLayer.pdf, id=105, 611.28375pt x 323.2075pt>
-File: figuras/ProgramLayer.pdf Graphic file (type pdf)
-
-<use figuras/ProgramLayer.pdf>
-Package pdftex.def Info: figuras/ProgramLayer.pdf used on input line 59.
-(pdftex.def)             Requested size: 256.73743pt x 135.74622pt.
-
-Overfull \hbox (16.73743pt too wide) in paragraph at lines 59--60
- [][] 
- []
-
-
-LaTeX Warning: Citation `OMGADM' on page \thepage  undefined on input line 60.
-
-
-LaTeX Warning: Citation `OMGADM' on page \thepage  undefined on input line 60.
-
-
-Overfull \hbox (11.79594pt too wide) in paragraph at lines 64--65
-\T1/aer/m/it/9 ment \T1/aer/m/n/9 and \T1/aer/m/it/9 Con-trolEle-ment\T1/aer/m/
-n/9 . The for-mer sub-metaclass, \T1/aer/m/it/9 DataEle-
- []
-
-) (./tex/background_Motivation.tex) (./tex/method_applied.tex
-<figuras/process.pdf, id=115, 2534.46875pt x 727.71875pt>
+])
+(./tex/method_applied.tex
+<figuras/process.pdf, id=36, 2534.46875pt x 727.71875pt>
 File: figuras/process.pdf Graphic file (type pdf)
 
 <use figuras/process.pdf>
 Package pdftex.def Info: figuras/process.pdf used on input line 6.
 (pdftex.def)             Requested size: 228.09235pt x 65.49185pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) (./tex/planning.texpdfTeX warning (ext4): destination with the same identifie
-r (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.4 
-     [3 <./figuras/ProgramLayer.pdf>]
-Overfull \hbox (5.16515pt too wide) in paragraph at lines 47--48
+) (./tex/planning.tex
+Overfull \hbox (5.16515pt too wide) in paragraph at lines 46--47
 \T1/aer/m/it/9 edge Dis-cov-ery Meta-model, KDM, Ab-stract Syn-tax Tree Meta-
  []
 
 
-Overfull \hbox (2.54579pt too wide) in paragraph at lines 47--48
+Overfull \hbox (2.54579pt too wide) in paragraph at lines 46--47
 \T1/aer/m/it/9 model, ASTM, Struc-tured Met-rics Meta-model - SMM, Model-
- []
-
-<figuras/SearchStringADM.pdf, id=192, 706.64pt x 137.51375pt>
-File: figuras/SearchStringADM.pdf Graphic file (type pdf)
-
-<use figuras/SearchStringADM.pdf>
-Package pdftex.def Info: figuras/SearchStringADM.pdf used on input line 54.
-(pdftex.def)             Requested size: 247.3277pt x 48.13052pt.
-
-Overfull \hbox (7.3277pt too wide) in paragraph at lines 54--55
- [][] 
- []
-
-
-Overfull \hbox (3.0315pt too wide) in paragraph at lines 64--65
-[]\T1/aer/bx/n/9 Studies that ex-plic-itly present an ADM ap-proach:
- []
-
-
-Overfull \hbox (6.31046pt too wide) in paragraph at lines 77--78
-[]\T1/aer/bx/n/9 Papers that present only rec-om-men-da-tions, guide-
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.78 
-      [4 <./figuras/process.pdf> <./figuras/SearchStringADM.pdf>])
-(./tex/conducting.tex
+l.47 
+      [2 <./figuras/process.pdf>]
+<figuras/SearchStringADM.pdf, id=86, 706.64pt x 137.51375pt>
+File: figuras/SearchStringADM.pdf Graphic file (type pdf)
+
+<use figuras/SearchStringADM.pdf>
+Package pdftex.def Info: figuras/SearchStringADM.pdf used on input line 53.
+(pdftex.def)             Requested size: 247.3277pt x 48.13052pt.
+
+Overfull \hbox (7.3277pt too wide) in paragraph at lines 53--54
+ [][] 
+ []
+
+
+Overfull \hbox (3.0315pt too wide) in paragraph at lines 63--64
+[]\T1/aer/bx/n/9 Studies that ex-plic-itly present an ADM ap-proach:
+ []
+
+
+Overfull \hbox (6.31046pt too wide) in paragraph at lines 76--77
+[]\T1/aer/bx/n/9 Papers that present only rec-om-men-da-tions, guide-
+ []
+
+) (./tex/conducting.texpdfTeX warning (ext4): destination with the same identif
+ier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 
+      [3 <./figuras/SearchStringADM.pdf>]
 Overfull \hbox (7.69363pt too wide) in paragraph at lines 81--82
 \T1/aer/m/n/9 which specif-i-cally de-scribe trans-for-ma-tion among ADM's
  []
@@ -846,12 +757,7 @@ Overfull \hbox (7.86464pt too wide) in paragraph at lines 81--82
 \T1/aer/m/n/9 of lan-guage trans-for-ma-tion such as ei-ther Query/Views/-
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.82 
-      [5]
+
 Overfull \hbox (9.2597pt too wide) in paragraph at lines 83--84
 \T1/aer/m/n/9 mary stud-ies which ei-ther cre-ated or ex-tended the ADM's
  []
@@ -869,7 +775,7 @@ resents
  []
 
 ) (./tex/validation.tex
-<figuras/validation2.pdf, id=283, 432.61626pt x 483.8075pt>
+<figuras/validation2.pdf, id=141, 432.61626pt x 483.8075pt>
 File: figuras/validation2.pdf Graphic file (type pdf)
 
 <use figuras/validation2.pdf>
@@ -879,37 +785,35 @@ Package pdftex.def Info: figuras/validation2.pdf used on input line 6.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./tex/reporting.tex
-<figuras/MapaNOVO3.pdf, id=287, 795.97375pt x 605.26125pt>
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.12 
+      [4]) (./tex/reporting.tex
+<figuras/MapaNOVO3.pdf, id=161, 867.24pt x 605.26125pt>
 File: figuras/MapaNOVO3.pdf Graphic file (type pdf)
 
 <use figuras/MapaNOVO3.pdf>
 Package pdftex.def Info: figuras/MapaNOVO3.pdf used on input line 8.
-(pdftex.def)             Requested size: 512.16637pt x 284.52823pt.
+(pdftex.def)             Requested size: 455.24167pt x 256.07356pt.
 
-Overfull \hbox (8.16637pt too wide) in paragraph at lines 8--9
- [][] 
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.17 
-      [6 <./figuras/validation2.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-<figuras/NovoBarFormated.pdf, id=319, 448.67625pt x 436.63126pt>
+<figuras/NovoBarFormated.pdf, id=168, 450.68375pt x 437.635pt>
 File: figuras/NovoBarFormated.pdf Graphic file (type pdf)
 
 <use figuras/NovoBarFormated.pdf>
-Package pdftex.def Info: figuras/NovoBarFormated.pdf used on input line 41.
-(pdftex.def)             Requested size: 157.03903pt x 152.82323pt.
+Package pdftex.def Info: figuras/NovoBarFormated.pdf used on input line 47.
+(pdftex.def)             Requested size: 135.20616pt x 131.2915pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<figuras/pieChartModel.pdf, id=172, 273.02pt x 216.81pt>
+File: figuras/pieChartModel.pdf Graphic file (type pdf)
+
+<use figuras/pieChartModel.pdf>
+Package pdftex.def Info: figuras/pieChartModel.pdf used on input line 59.
+(pdftex.def)             Requested size: 136.50966pt x 108.40472pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -917,93 +821,108 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49 
-      [7 <./figuras/MapaNOVO3.pdf>]
-<figuras/pieChartModel.pdf, id=556, 273.02pt x 216.81pt>
-File: figuras/pieChartModel.pdf Graphic file (type pdf)
-
-<use figuras/pieChartModel.pdf>
-Package pdftex.def Info: figuras/pieChartModel.pdf used on input line 53.
-(pdftex.def)             Requested size: 150.16145pt x 119.24586pt.
-
-<figuras/pieEvaluation.pdf, id=562, 387.4475pt x 271.0125pt>
+l.62 \end{figure}
+                  [5 <./figuras/validation2.pdf>]
+<figuras/pieEvaluation.pdf, id=203, 387.4475pt x 271.0125pt>
 File: figuras/pieEvaluation.pdf Graphic file (type pdf)
 
 <use figuras/pieEvaluation.pdf>
-Package pdftex.def Info: figuras/pieEvaluation.pdf used on input line 69.
-(pdftex.def)             Requested size: 189.85094pt x 132.79727pt.
+Package pdftex.def Info: figuras/pieEvaluation.pdf used on input line 75.
+(pdftex.def)             Requested size: 174.34976pt x 121.95448pt.
 
-<figuras/DistribuicaoANoArtigos.pdf, id=594, 438.63875pt x 418.56375pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figuras/DistribuicaoANoArtigos.pdf, id=235, 438.63875pt x 418.56375pt>
 File: figuras/DistribuicaoANoArtigos.pdf Graphic file (type pdf)
 
 <use figuras/DistribuicaoANoArtigos.pdf>
 Package pdftex.def Info: figuras/DistribuicaoANoArtigos.pdf used on input line 
-151.
-(pdftex.def)             Requested size: 175.45238pt x 167.42252pt.
+159.
+(pdftex.def)             Requested size: 153.52585pt x 146.4995pt.
 
-Overfull \hbox (2.95906pt too wide) in paragraph at lines 163--164
-[]\T1/aer/m/n/9 Jorge Maratalla et al., [[]20[]] pro-pose \T1/aer/bx/n/9 GAFEMO
- \T1/aer/m/n/9 (Gap Anal-
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.165 Y
-       azdanshenas and Moonen~\cite{6080786} present a method that combines ...
-[8 <./figuras/NovoBarFormated.pdf> <./figuras/pieChartModel.pdf> <./figuras/pie
-Evaluation.pdf> <./figuras/DistribuicaoANoArtigos.pdf>]
-Overfull \hbox (6.47801pt too wide) in paragraph at lines 173--174
-[]\T1/aer/m/n/9 Pérez-Castillo et al., [[]23[]] pro-poses the elic-i-ta-tion of
+l.162 \end{figure}
+                   [6 <./figuras/MapaNOVO3.pdf> <./figuras/NovoBarFormated.pdf>
+ <./figuras/pieChartModel.pdf>]
+Overfull \hbox (6.55005pt too wide) in paragraph at lines 203--204
+[]\T1/aer/bx/n/9 CloudMIG\T1/aer/m/n/9 . Cloud-MIG pro-vides a semi-automatical
+ly sup-
+ []
+
+
+Underfull \vbox (badness 2662) has occurred while \output is active []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.210 
+       [7 <./figuras/pieEvaluation.pdf> <./figuras/DistribuicaoANoArtigos.pdf>]
+
+Overfull \hbox (2.95906pt too wide) in paragraph at lines 227--228
+[]\T1/aer/m/n/9 Jorge Maratalla et al., [[]22[]] pro-pose \T1/aer/bx/n/9 GAFEMO
+ \T1/aer/m/n/9 (Gap Anal-
+ []
+
+
+Underfull \vbox (badness 1558) has occurred while \output is active []
+
+
+Overfull \hbox (6.47801pt too wide) in paragraph at lines 237--238
+[]\T1/aer/m/n/9 Pérez-Castillo et al., [[]25[]] pro-poses the elic-i-ta-tion of
  database
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.244 
+       [8]) (./tex/threats_to_validity.tex)pdfTeX warning (ext4): destination w
+ith the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.202 \section
+              {Concluding Remarks}\label{conclusion} [9] (./tex/conclusion.tex)
+(./adm-kdm.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.181 ...subsection{Business Knowledge Extraction}
-                                                   [9])
-(./tex/threats_to_validity.tex) (./tex/conclusion.texpdfTeX warning (ext4): des
-tination with the same identifier (name{page.}) has been already used, duplicat
-e ignored
-<to be read again> 
-                   \relax 
-l.2 
-     [10]) (./tex/acknowledgment.tex) (./adm-kdm.bbl
+l.106 
+       [10]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.103 \bibitem{Mainetti:2012:MMT:2364120.2364182}
-                                                  [11]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Font Info:    Try loading font information for OMS+aer on input line 212.
+LaTeX Font Info:    Try loading font information for OMS+aer on input line 222.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/ae/omsaer.fd
 File: omsaer.fd 1999/12/27
 )
 LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 212.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 222.
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 213.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.213 \end{document}
-                     [12]
+                     [11]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 213.
  (./adm-kdm.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 213.
@@ -1015,13 +934,13 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 213.
  ) 
 Here is how much of TeX's memory you used:
- 11130 strings out of 493488
- 166750 string characters out of 3141326
- 388287 words of memory out of 3000000
- 14051 multiletter control sequences out of 15000+200000
- 55725 words of font info for 77 fonts, out of 3000000 for 9000
+ 11076 strings out of 493488
+ 165880 string characters out of 3141326
+ 387103 words of memory out of 3000000
+ 14024 multiletter control sequences out of 15000+200000
+ 52281 words of font info for 74 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 44i,12n,42p,2279b,425s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,10n,42p,2279b,427s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/tex
 live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texli
@@ -1031,14 +950,13 @@ ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/
 exmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2012/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2012/texmf
 -dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist/f
-onts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/ty
-pe1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/ti
-mes/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri8
-a.pfb>
-Output written on adm-kdm.pdf (12 pages, 678148 bytes).
+onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1
+/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times
+/utmri8a.pfb>
+Output written on adm-kdm.pdf (11 pages, 556871 bytes).
 PDF statistics:
- 886 PDF objects out of 1000 (max. 8388607)
- 651 compressed objects within 7 object streams
- 91 named destinations out of 1000 (max. 500000)
- 245 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 769 PDF objects out of 1000 (max. 8388607)
+ 575 compressed objects within 6 object streams
+ 82 named destinations out of 1000 (max. 500000)
+ 169 words of extra memory for PDF output out of 10000 (max. 10000000)
 

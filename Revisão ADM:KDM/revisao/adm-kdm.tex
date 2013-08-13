@@ -53,6 +53,7 @@
 \usepackage{nth}
 \usepackage{cite}
 \usepackage{enumerate} 
+\usepackage{subfig}
 \usepackage{graphicx}
 \usepackage{mwe}
 \usepackage{rotating}
@@ -77,15 +78,14 @@
 \begin{document}
 %
 % --- Author Metadata here ---
-\conferenceinfo{SAC'13}{March 18-22, 2013, Coimbra, Portugal.}
-\CopyrightYear{2013} % Allows default copyright year (2002) to be over-ridden - IF NEED BE.
-\crdata{978-1-4503-1656-9/13/03}  % Allows default copyright data (X-XXXXX-XX-X/XX/XX) to be over-ridden.
+%\conferenceinfo{SAC'13}{March 18-22, 2013, Coimbra, Portugal.}
+%\CopyrightYear{2013} % Allows default copyright year (2002) to be over-ridden - IF NEED BE.
+%\crdata{978-1-4503-1656-9/13/03}  % Allows default copyright data (X-XXXXX-XX-X/XX/XX) to be over-ridden.
 % --- End of Author Metadata ---
 
 \title{A Systematic Review on Architecture-Driven Modernization}
 
 
-%
 % You need the command \numberofauthors to handle the 'placement
 % and alignment' of the authors beneath the title.
 %
@@ -113,8 +113,8 @@
 \numberofauthors{5} %  in this sample file, there are a *total*
 % of EIGHT authors. SIX appear on the 'first-page' (for formatting
 % reasons) and the remaining two appear in the \additionalauthors section.
-%
-\author{
+% AQUI é onde iremos colocar os autores do artigo, porém o ACM é blind..
+%\author{
 % You can go ahead and credit any number of authors here,
 % e.g. one 'row of three' or two rows (consisting of one row of three
 % and a second row of one, two or three).
@@ -126,36 +126,36 @@
 % e-mail address with \email.
 %
 % 1st. author
-\alignauthor
-Rafael S. Durelli\\
-       \affaddr{ICMC - USP}\\
-       \affaddr{S\~{a}o Carlos, SP, Brazil}\\
-       \email{rdurelli@icmc.usp.br}
+%\alignauthor
+%Rafael S. Durelli\\
+%       \affaddr{ICMC - USP}\\
+%       \affaddr{S\~{a}o Carlos, SP, Brazil}\\
+%       \email{rdurelli@icmc.usp.br}
 % 2nd. author
-\alignauthor Daniel S. M. Santib\'{a}\~{n}ez\\
-       		\affaddr{DC - UFSCar}\\
-       		\affaddr{S\~{a}o Carlos, SP, Brazil}\\
-       		\email{daniel.santibanez@dc.ufscar.br}
-\and
+%\alignauthor Daniel S. M. Santib\'{a}\~{n}ez\\
+%       		\affaddr{DC - UFSCar}\\
+%       		\affaddr{S\~{a}o Carlos, SP, Brazil}\\
+%       		\email{daniel.santibanez@dc.ufscar.br}
+%\and
 % 3rd. author
-\alignauthor 
-Nicolas Anquetil\\
-       \affaddr{RMoD Team - INRIA}\\
-       \affaddr{Lille, France}\\
-       \email{Nicolas.Anquetil@inria.fr}
+%\alignauthor 
+%Nicolas Anquetil\\
+%       \affaddr{RMoD Team - INRIA}\\
+%       \affaddr{Lille, France}\\
+%       \email{Nicolas.Anquetil@inria.fr}
 % 4th. author
-\alignauthor 
-M\'arcio E. Delamaro\\
-       \affaddr{ICMC - USP}\\
-       \affaddr{S\~{a}o Carlos, SP, Brazil}\\
-       \email{delamaro@icmc.usp.br}
+%\alignauthor 
+%M\'arcio E. Delamaro\\
+ %      \affaddr{ICMC - USP}\\
+  %     \affaddr{S\~{a}o Carlos, SP, Brazil}\\
+%       \email{delamaro@icmc.usp.br}
 % 5th. author
-\alignauthor 
-Valter Vieira de Camargo\\
-       \affaddr{DC - UFSCar}\\
-       \affaddr{S\~{a}o Carlos, SP, Brazil}\\
-       \email{valter@dc.ufscar.br}
-}
+%\alignauthor 
+%Valter Vieira de Camargo\\
+%       \affaddr{DC - UFSCar}\\
+%       \affaddr{S\~{a}o Carlos, SP, Brazil}\\
+%       \email{valter@dc.ufscar.br}
+%}
 
 
 \date{30 July 1999}
@@ -169,17 +169,17 @@ Valter Vieira de Camargo\\
 \input{tex/abstract}
 
 % A category with the (minimum) three required fields
-\category{D.2}{Software Engineering}{Miscellaneus}
+%\category{D.2}{Software Engineering}{Miscellaneus}
 
-\keywords{Systematic Review, Concern Mining, Aspect Mining, Crosscutting Concerns.}
+%\keywords{Systematic Review, Concern Mining, Aspect Mining, Crosscutting Concerns.}
 
 \section{Introduction}
 	\input{tex/introduction}
 
-\section{Background and Motivation}
-	\input{tex/background_ADM}
-		\subsection{Motivation}
-		\input{tex/background_Motivation}
+%\section{Background and Motivation}
+%	\input{tex/background_ADM}
+%		\subsection{Motivation}
+%		\input{tex/background_Motivation}
 	
 
 \section{The Systematic Review}\label{method}
@@ -202,8 +202,8 @@ Valter Vieira de Camargo\\
 \section{Concluding Remarks}\label{conclusion}
 		\input{tex/conclusion}
 
-\section{ACKNOWLEDGMENTS}\label{ack}
-	      \input{tex/acknowledgment}
+%\section{ACKNOWLEDGMENTS}\label{ack}
+%	      \input{tex/acknowledgment}
 	
 %References
 \bibliographystyle{abbrv}		

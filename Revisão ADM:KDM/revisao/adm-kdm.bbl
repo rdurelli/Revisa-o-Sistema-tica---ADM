@@ -20,6 +20,16 @@ H.~Bruneliere, J.~Cabot, F.~Jouault, and F.~Madiot.
 \newblock In {\em Proceedings of the IEEE/ACM international conference on
   Automated software engineering}, ASE '10, pages 173--174. ACM, 2010.
 
+\bibitem{Canfora2011}
+G.~Canfora, M.~Di~Penta, and L.~Cerulo.
+\newblock Achievements and challenges in software reverse engineering.
+\newblock {\em Commun. ACM}, 54:142--151, Apr. 2011.
+
+\bibitem{chikofskyTax}
+E.~J. Chikofsky and J.~H. Cross~II.
+\newblock {Reverse Engineering and Design Recovery: A Taxonomy}.
+\newblock {\em IEEE Software}, 7(1):13--17, 1990.
+
 \bibitem{delCastillo:2009:PRP:1529282.1529753}
 R.~P. del Castillo, I.~Garc\'{\i}a-Rodr\'{\i}guez, and I.~Caballero.
 \newblock Preciso: a reengineering process and a tool for database
@@ -227,6 +237,11 @@ R.~Rodr\'{\i}guez-Echeverr\'{\i}a, J.~M. Conejero, P.~J. Clemente, J.~C.
 \newblock In {\em Proceedings of the 11th international conference on Current
   Trends in Web Engineering}, pages 236--250, Berlin, Heidelberg, 2012.
   Springer-Verlag.
+
+\bibitem{Tilley95perspectiveson}
+S.~Tilley and D.~Smith.
+\newblock Perspectives on legacy system reengineering.
+\newblock 1995.
 
 \bibitem{Tu:2011:HRD:2048476.2048482}
 Z.~Tu, G.~Zacharewicz, and D.~Chen.

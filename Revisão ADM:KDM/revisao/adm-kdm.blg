@@ -4,48 +4,47 @@ The top-level auxiliary file: adm-kdm.aux
 The style file: abbrv.bst
 Database file #1: acmSac2013.bib
 Warning--I didn't find a database entry for "Ulrich:2010:IST:1841736"
-Warning--I didn't find a database entry for "1686216"
-Warning--I didn't find a database entry for "OMGADM"
+Warning--empty journal in Tilley95perspectiveson
 Warning--empty journal in Wieringa:2005:REP:1107677.1107683
-You've used 37 entries,
+You've used 40 entries,
             2118 wiz_defined-function locations,
-            747 strings with 13543 characters,
-and the built_in function-call counts, 17394 in all, are:
-= -- 1788
-> -- 745
+            763 strings with 13935 characters,
+and the built_in function-call counts, 18309 in all, are:
+= -- 1880
+> -- 789
 < -- 30
-+ -- 303
-- -- 254
-* -- 1150
-:= -- 2581
-add.period$ -- 126
-call.type$ -- 37
-change.case$ -- 238
++ -- 320
+- -- 268
+* -- 1216
+:= -- 2739
+add.period$ -- 135
+call.type$ -- 40
+change.case$ -- 254
 chr.to.int$ -- 0
-cite$ -- 38
-duplicate$ -- 754
-empty$ -- 1359
-format.name$ -- 254
-if$ -- 3931
+cite$ -- 42
+duplicate$ -- 786
+empty$ -- 1427
+format.name$ -- 268
+if$ -- 4114
 int.to.chr$ -- 0
-int.to.str$ -- 37
-missing$ -- 37
-newline$ -- 188
-num.names$ -- 74
-pop$ -- 275
+int.to.str$ -- 40
+missing$ -- 40
+newline$ -- 203
+num.names$ -- 80
+pop$ -- 289
 preamble$ -- 1
-purify$ -- 201
+purify$ -- 214
 quote$ -- 0
-skip$ -- 626
+skip$ -- 649
 stack$ -- 0
-substring$ -- 1228
-swap$ -- 315
+substring$ -- 1287
+swap$ -- 317
 text.length$ -- 30
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 148
-warning$ -- 1
-while$ -- 160
-width$ -- 39
-write$ -- 446
-(There were 4 warnings)
+type$ -- 160
+warning$ -- 2
+while$ -- 170
+width$ -- 42
+write$ -- 477
+(There were 3 warnings)
