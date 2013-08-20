@@ -3,48 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: adm-kdm.aux
 The style file: abbrv.bst
 Database file #1: acmSac2013.bib
-Warning--I didn't find a database entry for "Ulrich:2010:IST:1841736"
-Warning--empty journal in Tilley95perspectiveson
 Warning--empty journal in Wieringa:2005:REP:1107677.1107683
-You've used 40 entries,
+You've used 36 entries,
             2118 wiz_defined-function locations,
-            763 strings with 13935 characters,
-and the built_in function-call counts, 18309 in all, are:
-= -- 1880
-> -- 789
-< -- 30
-+ -- 320
-- -- 268
-* -- 1216
-:= -- 2739
-add.period$ -- 135
-call.type$ -- 40
-change.case$ -- 254
+            736 strings with 13122 characters,
+and the built_in function-call counts, 16797 in all, are:
+= -- 1724
+> -- 717
+< -- 29
++ -- 291
+- -- 244
+* -- 1109
+:= -- 2495
+add.period$ -- 122
+call.type$ -- 36
+change.case$ -- 230
 chr.to.int$ -- 0
-cite$ -- 42
-duplicate$ -- 786
-empty$ -- 1427
-format.name$ -- 268
-if$ -- 4114
+cite$ -- 37
+duplicate$ -- 729
+empty$ -- 1317
+format.name$ -- 244
+if$ -- 3796
 int.to.chr$ -- 0
-int.to.str$ -- 40
-missing$ -- 40
-newline$ -- 203
-num.names$ -- 80
-pop$ -- 289
+int.to.str$ -- 36
+missing$ -- 36
+newline$ -- 183
+num.names$ -- 72
+pop$ -- 265
 preamble$ -- 1
-purify$ -- 214
+purify$ -- 194
 quote$ -- 0
-skip$ -- 649
+skip$ -- 605
 stack$ -- 0
-substring$ -- 1287
-swap$ -- 317
-text.length$ -- 30
+substring$ -- 1182
+swap$ -- 303
+text.length$ -- 29
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 160
-warning$ -- 2
-while$ -- 170
-width$ -- 42
-write$ -- 477
-(There were 3 warnings)
+type$ -- 144
+warning$ -- 1
+while$ -- 155
+width$ -- 38
+write$ -- 433
+(There was 1 warning)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  14 AUG 2013 11:14
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  19 AUG 2013 15:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -597,7 +597,11 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 (/usr/local/texlive/2012/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box33
-) (./tex/defines.tex) (./adm-kdm.aux)
+) (./tex/defines.tex) (./adm-kdm.aux
+
+LaTeX Warning: Label `foo' multiply defined.
+
+)
 \openout1 = `adm-kdm.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
@@ -614,8 +618,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
 LaTeX Font Info:    ... okay on input line 79.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
 LaTeX Font Info:    ... okay on input line 79.
-
-(/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
+ (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count169
 \scratchdimen=\dimen158
@@ -686,42 +689,13 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
 LaTeX Warning: No \author given.
 
-(./tex/abstract.tex) (./tex/introduction.tex
-
-LaTeX Warning: Citation `Ulrich:2010:IST:1841736' on page \thepage  undefined o
-n input line 5.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+(./tex/abstract.tex) (./tex/introduction.tex) (./tex/method_applied.tex
+[1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ])
-(./tex/method_applied.tex
-<figuras/process.pdf, id=36, 2534.46875pt x 727.71875pt>
-File: figuras/process.pdf Graphic file (type pdf)
-
-<use figuras/process.pdf>
-Package pdftex.def Info: figuras/process.pdf used on input line 6.
-(pdftex.def)             Requested size: 228.09235pt x 65.49185pt.
-) (./tex/planning.tex
-Overfull \hbox (5.16515pt too wide) in paragraph at lines 46--47
-\T1/aer/m/it/9 edge Dis-cov-ery Meta-model, KDM, Ab-stract Syn-tax Tree Meta-
- []
-
-
-Overfull \hbox (2.54579pt too wide) in paragraph at lines 46--47
-\T1/aer/m/it/9 model, ASTM, Struc-tured Met-rics Meta-model - SMM, Model-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.47 
-      [2 <./figuras/process.pdf>]
-<figuras/SearchStringADM.pdf, id=86, 706.64pt x 137.51375pt>
+(./tex/planning.tex
+<figuras/SearchStringADM.pdf, id=43, 706.64pt x 137.51375pt>
 File: figuras/SearchStringADM.pdf Graphic file (type pdf)
 
 <use figuras/SearchStringADM.pdf>
@@ -733,97 +707,43 @@ Overfull \hbox (7.3277pt too wide) in paragraph at lines 53--54
  []
 
 
-Overfull \hbox (3.0315pt too wide) in paragraph at lines 63--64
-[]\T1/aer/bx/n/9 Studies that ex-plic-itly present an ADM ap-proach:
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (6.31046pt too wide) in paragraph at lines 76--77
-[]\T1/aer/bx/n/9 Papers that present only rec-om-men-da-tions, guide-
- []
+Underfull \vbox (badness 1558) has occurred while \output is active []
 
-) (./tex/conducting.texpdfTeX warning (ext4): destination with the same identif
-ier (name{page.}) has been already used, duplicate ignored
+)
+(./tex/conducting.texpdfTeX warning (ext4): destination with the same identifie
+r (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.45 
-      [3 <./figuras/SearchStringADM.pdf>]
-Overfull \hbox (7.69363pt too wide) in paragraph at lines 81--82
-\T1/aer/m/n/9 which specif-i-cally de-scribe trans-for-ma-tion among ADM's
- []
-
-
-Overfull \hbox (7.86464pt too wide) in paragraph at lines 81--82
-\T1/aer/m/n/9 of lan-guage trans-for-ma-tion such as ei-ther Query/Views/-
- []
-
-
-Overfull \hbox (9.2597pt too wide) in paragraph at lines 83--84
-\T1/aer/m/n/9 mary stud-ies which ei-ther cre-ated or ex-tended the ADM's
- []
-
-
-Overfull \hbox (1.74438pt too wide) in paragraph at lines 87--88
-[]\T1/aer/bx/n/9 Metrics: \T1/aer/m/n/9 This is type of con-tri-bu-tions fo-cus
- on propos-
- []
-
-
-Overfull \hbox (6.59476pt too wide) in paragraph at lines 100--101
-[]\T1/aer/bx/n/9 Conceptual pro-posal: \T1/aer/m/n/9 A con-cep-tual pro-posal p
-resents
- []
-
-) (./tex/validation.tex
-<figuras/validation2.pdf, id=141, 432.61626pt x 483.8075pt>
+l.44 
+      [2 <./figuras/SearchStringADM.pdf>]) (./tex/validation.tex
+<figuras/validation2.pdf, id=91, 432.61626pt x 483.8075pt>
 File: figuras/validation2.pdf Graphic file (type pdf)
 
 <use figuras/validation2.pdf>
 Package pdftex.def Info: figuras/validation2.pdf used on input line 6.
 (pdftex.def)             Requested size: 173.04343pt x 193.51956pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.12 
-      [4]) (./tex/reporting.tex
-<figuras/MapaNOVO3.pdf, id=161, 867.24pt x 605.26125pt>
+      [3 <./figuras/validation2.pdf>]) (./tex/reporting.tex
+<figuras/MapaNOVO3.pdf, id=124, 867.24pt x 605.26125pt>
 File: figuras/MapaNOVO3.pdf Graphic file (type pdf)
 
 <use figuras/MapaNOVO3.pdf>
 Package pdftex.def Info: figuras/MapaNOVO3.pdf used on input line 8.
-(pdftex.def)             Requested size: 455.24167pt x 256.07356pt.
+(pdftex.def)             Requested size: 497.93132pt x 210.55162pt.
 
-<figuras/NovoBarFormated.pdf, id=168, 450.68375pt x 437.635pt>
-File: figuras/NovoBarFormated.pdf Graphic file (type pdf)
-
-<use figuras/NovoBarFormated.pdf>
-Package pdftex.def Info: figuras/NovoBarFormated.pdf used on input line 47.
-(pdftex.def)             Requested size: 135.20616pt x 131.2915pt.
+Underfull \vbox (badness 1558) has occurred while \output is active []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Reference `fig:pie' on page \thepage  undefined on input line 54
-.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.55 
-      [5 <./figuras/validation2.pdf>]
-<figuras/pieChartModel.pdf, id=195, 273.02pt x 216.81pt>
+<figuras/pieChartModel.pdf, id=135, 273.02pt x 216.81pt>
 <use figuras/pieChartModel.pdf>
-<figuras/PackagesKDMFormatted.pdf, id=196, 376.40625pt x 246.9225pt>
+<figuras/PackagesKDMFormatted.pdf, id=136, 376.40625pt x 246.9225pt>
 <use figuras/PackagesKDMFormatted.pdf> <use figuras/pieChartModel.pdf>
 <use figuras/PackagesKDMFormatted.pdf>
 File: figuras/pieChartModel.pdf Graphic file (type pdf)
@@ -841,57 +761,85 @@ Overfull \hbox (26.00293pt too wide) in alignment at lines 73--73
 [][][]
  []
 
-<figuras/pieEvaluation.pdf, id=202, 387.4475pt x 271.0125pt>
-File: figuras/pieEvaluation.pdf Graphic file (type pdf)
 
-<use figuras/pieEvaluation.pdf>
-Package pdftex.def Info: figuras/pieEvaluation.pdf used on input line 89.
-(pdftex.def)             Requested size: 174.34976pt x 121.95448pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.169 
-       [6 <./figuras/MapaNOVO3.pdf> <./figuras/NovoBarFormated.pdf> <./figuras/
-pieChartModel.pdf> <./figuras/PackagesKDMFormatted.pdf>]
-<figuras/DistribuicaoANoArtigos.pdf, id=547, 438.63875pt x 418.56375pt>
+l.81 
+      [4] <figuras/TESTEVAI.pdf, id=152, 451.6875pt x 563.10374pt>
+<use figuras/TESTEVAI.pdf>
+<figuras/DistribuicaoANoArtigos.pdf, id=153, 439.6425pt x 512.91624pt>
+<use figuras/DistribuicaoANoArtigos.pdf> <use figuras/TESTEVAI.pdf>
+<use figuras/DistribuicaoANoArtigos.pdf>
+File: figuras/TESTEVAI.pdf Graphic file (type pdf)
+ <use figuras/TESTEVAI.pdf>
+Package pdftex.def Info: figuras/TESTEVAI.pdf used on input line 93.
+(pdftex.def)             Requested size: 110.96556pt x 138.33539pt.
 File: figuras/DistribuicaoANoArtigos.pdf Graphic file (type pdf)
 
 <use figuras/DistribuicaoANoArtigos.pdf>
 Package pdftex.def Info: figuras/DistribuicaoANoArtigos.pdf used on input line 
-173.
-(pdftex.def)             Requested size: 153.52585pt x 146.4995pt.
+93.
+(pdftex.def)             Requested size: 119.50148pt x 139.41275pt.
 
-Overfull \hbox (6.55005pt too wide) in paragraph at lines 217--218
+Overfull \hbox (17.46701pt too wide) in alignment at lines 93--93
+[][][]
+ []
+
+
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+
+Overfull \hbox (6.55005pt too wide) in paragraph at lines 229--230
 []\T1/aer/bx/n/9 CloudMIG\T1/aer/m/n/9 . Cloud-MIG pro-vides a semi-automatical
 ly sup-
  []
 
 
-Underfull \vbox (badness 1655) has occurred while \output is active []
+Underfull \vbox (badness 2932) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.224 
-       [7 <./figuras/pieEvaluation.pdf> <./figuras/DistribuicaoANoArtigos.pdf>]
+l.230 
+       [5 <./figuras/MapaNOVO3.pdf> <./figuras/pieChartModel.pdf> <./figuras/Pa
+ckagesKDMFormatted.pdf> <./figuras/TESTEVAI.pdf> <./figuras/DistribuicaoANoArti
+gos.pdf>] <figuras/timeLineTools.pdf, id=544, 319.1925pt x 134.5025pt>
+File: figuras/timeLineTools.pdf Graphic file (type pdf)
 
-Overfull \hbox (2.95906pt too wide) in paragraph at lines 241--242
-[]\T1/aer/m/n/9 Jorge Maratalla et al., [[]22[]] pro-pose \T1/aer/bx/n/9 GAFEMO
- \T1/aer/m/n/9 (Gap Anal-
+<use figuras/timeLineTools.pdf>
+Package pdftex.def Info: figuras/timeLineTools.pdf used on input line 251.
+(pdftex.def)             Requested size: 255.35434pt x 107.60213pt.
+
+Overfull \hbox (15.35434pt too wide) in paragraph at lines 251--252
+ [][] 
  []
 
 
-Underfull \vbox (badness 1558) has occurred while \output is active []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (6.47801pt too wide) in paragraph at lines 251--252
-[]\T1/aer/m/n/9 Pérez-Castillo et al., [[]25[]] pro-poses the elic-i-ta-tion of
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.258 \subsubsection
+                    {Approach to modernize legacy systems to another platfor...
+[6]
+Overfull \hbox (8.0982pt too wide) in paragraph at lines 267--268
+\T1/aer/m/n/9 pen-dence model from a soft-ware sys-tem's het-ero-ge-neous sourc
+e
+ []
+
+
+Overfull \hbox (6.47801pt too wide) in paragraph at lines 275--276
+[]\T1/aer/m/n/9 Pérez-Castillo et al., [[]23[]] pro-poses the elic-i-ta-tion of
  database
  []
 
@@ -902,83 +850,65 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.258 
-       [8]) (./tex/threats_to_validity.tex)pdfTeX warning (ext4): destination w
-ith the same identifier (name{page.}) has been already used, duplicate ignored
+l.282 
+       [7 <./figuras/timeLineTools.pdf>]) (./tex/threats_to_validity.tex)
+(./tex/conclusion.texpdfTeX warning (ext4): destination with the same identifie
+r (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.199 
-       [9] (./tex/conclusion.tex) (./adm-kdm.bbl
+l.2 
+     [8]) (./adm-kdm.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.102 \bibitem{5440163}
-                        [10]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Font Info:    Try loading font information for OMS+aer on input line 222.
-
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/ae/omsaer.fd
-File: omsaer.fd 1999/12/27
-)
-LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 222.
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+l.175 ...{Perez-Castillo:2011:ECS:1982185.1982249}
+                                                   [9])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 215.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.214 \end{document}
-                     [11]pdfTeX warning (ext4): destination with the same ident
-ifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.214 \end{document}
-                     [12
+l.215 \end{document}
+                     [10
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 215.
  (./adm-kdm.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 214.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 214.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 215.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 215.
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 215.
  ) 
 Here is how much of TeX's memory you used:
- 11087 strings out of 493488
- 166151 string characters out of 3141326
- 387136 words of memory out of 3000000
- 14032 multiletter control sequences out of 15000+200000
- 52281 words of font info for 74 fonts, out of 3000000 for 9000
+ 11053 strings out of 493488
+ 165507 string characters out of 3141326
+ 392037 words of memory out of 3000000
+ 14012 multiletter control sequences out of 15000+200000
+ 54769 words of font info for 77 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 44i,24n,48p,2279b,571s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,24n,48p,2284b,602s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/tex
 live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texli
 ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/201
 2/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2012/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2012/tex
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2012/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2012/texmf
 -dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist/f
 onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1
 /urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on adm-kdm.pdf (12 pages, 580336 bytes).
+Output written on adm-kdm.pdf (10 pages, 548792 bytes).
 PDF statistics:
- 794 PDF objects out of 1000 (max. 8388607)
- 593 compressed objects within 6 object streams
- 84 named destinations out of 1000 (max. 500000)
- 174 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 744 PDF objects out of 1000 (max. 8388607)
+ 552 compressed objects within 6 object streams
+ 71 named destinations out of 1000 (max. 500000)
+ 169 words of extra memory for PDF output out of 10000 (max. 10000000)
 
