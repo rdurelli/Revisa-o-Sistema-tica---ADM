@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  27 AUG 2013 21:21
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  27 AUG 2013 21:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -695,9 +695,12 @@ Overfull \hbox (10.9298pt too wide) in paragraph at lines 177--179
  []
 
 (./tex/introduction.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (2.64337pt too wide) in paragraph at lines 7--8
+\T1/aer/m/n/9 Evidence-Based Soft-ware En-gi-neer-ing (EBSE) paradigm [[]15[]].
 
- [1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+ []
+
+[1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ])
@@ -869,7 +872,7 @@ mf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/typ
 e1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on adm-kdm.pdf (9 pages, 458983 bytes).
+Output written on adm-kdm.pdf (9 pages, 459016 bytes).
 PDF statistics:
  664 PDF objects out of 1000 (max. 8388607)
  484 compressed objects within 5 object streams
