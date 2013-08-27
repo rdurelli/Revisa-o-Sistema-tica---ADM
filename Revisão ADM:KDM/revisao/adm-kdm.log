@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  27 AUG 2013 13:41
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  27 AUG 2013 21:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -694,12 +694,15 @@ Overfull \hbox (10.9298pt too wide) in paragraph at lines 177--179
 \T1/aer/m/n/9 Systematic Re-view, Architecture-Driven Mod-ern-iza-tion, ADM,
  []
 
-(./tex/introduction.tex) (./tex/method_applied.tex [1{/usr/local/texlive/2012/t
-exmf-var/fonts/map/pdftex/updmap/pdftex.map}
+(./tex/introduction.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-]) (./tex/planning.tex
-<figuras/SearchStringADM.pdf, id=43, 706.64pt x 137.51375pt>
+])
+(./tex/method_applied.tex) (./tex/planning.tex
+<figuras/SearchStringADM.pdf, id=41, 706.64pt x 137.51375pt>
 File: figuras/SearchStringADM.pdf Graphic file (type pdf)
 
 <use figuras/SearchStringADM.pdf>
@@ -710,36 +713,31 @@ Overfull \hbox (7.3277pt too wide) in paragraph at lines 53--54
  [][] 
  []
 
-) (./tex/conducting.tex
-Underfull \vbox (badness 1558) has occurred while \output is active []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
+)pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.47 
-      [2 <./figuras/SearchStringADM.pdf>]) (./tex/reporting.tex
-<figuras/MapaNOVO3.pdf, id=88, 867.24pt x 605.26125pt>
+l.192 	\subsection
+                  {Conducting the Systematic Review\label{conducting}} [2 <./fi
+guras/SearchStringADM.pdf>] (./tex/conducting.tex) (./tex/reporting.tex
+<figuras/MapaNOVO3.pdf, id=92, 867.24pt x 605.26125pt>
 File: figuras/MapaNOVO3.pdf Graphic file (type pdf)
 
 <use figuras/MapaNOVO3.pdf>
 Package pdftex.def Info: figuras/MapaNOVO3.pdf used on input line 7.
 (pdftex.def)             Requested size: 441.01619pt x 182.09695pt.
-
-Underfull \vbox (badness 1558) has occurred while \output is active []
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.14 
+l.12 
       [3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-<figuras/pieChartModel.pdf, id=111, 273.02pt x 216.81pt>
+<figuras/pieChartModel.pdf, id=116, 273.02pt x 216.81pt>
 <use figuras/pieChartModel.pdf>
-<figuras/PackagesKDMFormatted.pdf, id=112, 376.40625pt x 246.9225pt>
+<figuras/PackagesKDMFormatted.pdf, id=117, 376.40625pt x 246.9225pt>
 <use figuras/PackagesKDMFormatted.pdf> <use figuras/pieChartModel.pdf>
 <use figuras/PackagesKDMFormatted.pdf>
 File: figuras/pieChartModel.pdf Graphic file (type pdf)
@@ -757,9 +755,9 @@ Overfull \hbox (26.00293pt too wide) in alignment at lines 66--66
 [][][]
  []
 
-<figuras/TESTEVAI.pdf, id=115, 451.6875pt x 563.10374pt>
+<figuras/TESTEVAI.pdf, id=120, 451.6875pt x 563.10374pt>
 <use figuras/TESTEVAI.pdf>
-<figuras/DistribuicaoANoArtigos.pdf, id=116, 439.6425pt x 512.91624pt>
+<figuras/DistribuicaoANoArtigos.pdf, id=121, 439.6425pt x 512.91624pt>
 <use figuras/DistribuicaoANoArtigos.pdf> <use figuras/TESTEVAI.pdf>
 <use figuras/DistribuicaoANoArtigos.pdf>
 File: figuras/TESTEVAI.pdf Graphic file (type pdf)
@@ -777,13 +775,25 @@ Overfull \hbox (17.46701pt too wide) in alignment at lines 83--83
 [][][]
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.135 
-       [4 <./figuras/MapaNOVO3.pdf> <./figuras/pieChartModel.pdf> <./figuras/Pa
-ckagesKDMFormatted.pdf>]
+l.137 
+       [4]
+Underfull \vbox (badness 3657) has occurred while \output is active []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.145 
+       [5 <./figuras/MapaNOVO3.pdf> <./figuras/pieChartModel.pdf> <./figuras/Pa
+ckagesKDMFormatted.pdf> <./figuras/TESTEVAI.pdf> <./figuras/DistribuicaoANoArti
+gos.pdf>]
 Overfull \hbox (4.84973pt too wide) in paragraph at lines 146--147
 []\T1/aer/bx/n/9 PRECISO\T1/aer/m/n/9 . It is a tool for database mod-erni-sa-t
 ion through
@@ -791,46 +801,45 @@ ion through
 
 
 Overfull \hbox (10.78116pt too wide) in paragraph at lines 158--159
-\T1/aer/m/n/9 means of ADM. Jorge Maratalla et al., [[]16[]] pro-pose \T1/aer/b
+\T1/aer/m/n/9 means of ADM. Jorge Maratalla et al., [[]18[]] pro-pose \T1/aer/b
 x/n/9 GAFEMO
  []
 
 
 Underfull \vbox (badness 1558) has occurred while \output is active []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.159 
-       [5 <./figuras/TESTEVAI.pdf> <./figuras/DistribuicaoANoArtigos.pdf>]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 1558) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.172 
-       [6]) (./tex/threats_to_validity.tex) (./tex/conclusion.tex)
-(./adm-kdm.bblpdfTeX warning (ext4): destination with the same identifier (name
-{page.}) has been already used, duplicate ignored
+l.165 
+       [6]) (./tex/threats_to_validity.tex) (./tex/conclusion.texpdfTeX warning
+ (ext4): destination with the same identifier (name{page.}) has been already us
+ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.19 
-      [7]
+l.2 
+     [7]) (./adm-kdm.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.140 
+       [8])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.217 \end{document}
-                     [8]
+                     [9
+
+]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
  (./adm-kdm.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 217.
@@ -842,10 +851,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 217.
  ) 
 Here is how much of TeX's memory you used:
- 11019 strings out of 493488
- 164901 string characters out of 3141326
- 387582 words of memory out of 3000000
- 13993 multiletter control sequences out of 15000+200000
+ 11025 strings out of 493488
+ 165012 string characters out of 3141326
+ 389696 words of memory out of 3000000
+ 13996 multiletter control sequences out of 15000+200000
  52281 words of font info for 74 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  44i,25n,48p,3259b,610s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -860,10 +869,10 @@ mf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/typ
 e1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on adm-kdm.pdf (8 pages, 456694 bytes).
+Output written on adm-kdm.pdf (9 pages, 458983 bytes).
 PDF statistics:
- 654 PDF objects out of 1000 (max. 8388607)
- 475 compressed objects within 5 object streams
- 64 named destinations out of 1000 (max. 500000)
+ 664 PDF objects out of 1000 (max. 8388607)
+ 484 compressed objects within 5 object streams
+ 67 named destinations out of 1000 (max. 500000)
  151 words of extra memory for PDF output out of 10000 (max. 10000000)
 
