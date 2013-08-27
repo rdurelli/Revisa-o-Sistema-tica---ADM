@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  27 AUG 2013 21:42
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  27 AUG 2013 21:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -716,14 +716,13 @@ Overfull \hbox (7.3277pt too wide) in paragraph at lines 53--54
  [][] 
  []
 
-)pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
-been already used, duplicate ignored
+) (./tex/conducting.texpdfTeX warning (ext4): destination with the same identif
+ier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.192 	\subsection
-                  {Conducting the Systematic Review\label{conducting}} [2 <./fi
-guras/SearchStringADM.pdf>] (./tex/conducting.tex) (./tex/reporting.tex
-<figuras/MapaNOVO3.pdf, id=92, 867.24pt x 605.26125pt>
+l.12 
+      [2 <./figuras/SearchStringADM.pdf>]) (./tex/reporting.tex
+<figuras/MapaNOVO3.pdf, id=93, 867.24pt x 605.26125pt>
 File: figuras/MapaNOVO3.pdf Graphic file (type pdf)
 
 <use figuras/MapaNOVO3.pdf>
@@ -779,15 +778,15 @@ Overfull \hbox (17.46701pt too wide) in alignment at lines 83--83
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2990) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.137 
+l.135 
        [4]
-Underfull \vbox (badness 3657) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
@@ -832,7 +831,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.140 
+l.146 
        [8])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
@@ -872,7 +871,7 @@ mf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/typ
 e1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on adm-kdm.pdf (9 pages, 459016 bytes).
+Output written on adm-kdm.pdf (9 pages, 458577 bytes).
 PDF statistics:
  664 PDF objects out of 1000 (max. 8388607)
  484 compressed objects within 5 object streams
