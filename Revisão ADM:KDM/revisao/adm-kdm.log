@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  27 AUG 2013 21:51
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  27 AUG 2013 22:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -720,9 +720,10 @@ Overfull \hbox (7.3277pt too wide) in paragraph at lines 53--54
 ier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.12 
-      [2 <./figuras/SearchStringADM.pdf>]) (./tex/reporting.tex
-<figuras/MapaNOVO3.pdf, id=93, 867.24pt x 605.26125pt>
+l.43 T
+      he digital libraries Scopus has returned more primary studies than the...
+[2 <./figuras/SearchStringADM.pdf>]) (./tex/reporting.tex
+<figuras/MapaNOVO3.pdf, id=92, 867.24pt x 605.26125pt>
 File: figuras/MapaNOVO3.pdf Graphic file (type pdf)
 
 <use figuras/MapaNOVO3.pdf>
@@ -732,7 +733,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.12 
+l.14 
       [3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -757,9 +758,9 @@ Overfull \hbox (26.00293pt too wide) in alignment at lines 66--66
 [][][]
  []
 
-<figuras/TESTEVAI.pdf, id=120, 451.6875pt x 563.10374pt>
+<figuras/TESTEVAI.pdf, id=119, 451.6875pt x 563.10374pt>
 <use figuras/TESTEVAI.pdf>
-<figuras/DistribuicaoANoArtigos.pdf, id=121, 439.6425pt x 512.91624pt>
+<figuras/DistribuicaoANoArtigos.pdf, id=120, 439.6425pt x 512.91624pt>
 <use figuras/DistribuicaoANoArtigos.pdf> <use figuras/TESTEVAI.pdf>
 <use figuras/DistribuicaoANoArtigos.pdf>
 File: figuras/TESTEVAI.pdf Graphic file (type pdf)
@@ -777,39 +778,68 @@ Overfull \hbox (17.46701pt too wide) in alignment at lines 83--83
 [][][]
  []
 
-
-Underfull \vbox (badness 2990) has occurred while \output is active []
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.135 
-       [4]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+l.96 
+      [4 <./figuras/MapaNOVO3.pdf> <./figuras/pieChartModel.pdf> <./figuras/Pac
+kagesKDMFormatted.pdf>]
+Overfull \hbox (3.86835pt too wide) in paragraph at lines 142--143
+\T1/aer/m/n/9 the prob-lem of ex-tract-ing mod-els from source code. Gra2MoL
+ []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.145 
-       [5 <./figuras/MapaNOVO3.pdf> <./figuras/pieChartModel.pdf> <./figuras/Pa
-ckagesKDMFormatted.pdf> <./figuras/TESTEVAI.pdf> <./figuras/DistribuicaoANoArti
-gos.pdf>]
-Overfull \hbox (4.84973pt too wide) in paragraph at lines 146--147
+
+Overfull \hbox (16.09015pt too wide) in paragraph at lines 146--147
+\T1/aer/m/n/9 cover busi-ness pro-cesses from legacy sys-tems based on KDM [[]2
+8[]].
+ []
+
+
+Overfull \hbox (4.84973pt too wide) in paragraph at lines 150--151
 []\T1/aer/bx/n/9 PRECISO\T1/aer/m/n/9 . It is a tool for database mod-erni-sa-t
 ion through
  []
 
 
-Overfull \hbox (10.78116pt too wide) in paragraph at lines 158--159
-\T1/aer/m/n/9 means of ADM. Jorge Maratalla et al., [[]18[]] pro-pose \T1/aer/b
-x/n/9 GAFEMO
+Overfull \hbox (10.98634pt too wide) in paragraph at lines 162--163
+\T1/aer/m/n/9 means of ADM. Jorge Maratalla et al., pro-pose \T1/aer/bx/n/9 GAF
+EMO \T1/aer/m/n/9 [[]18[]]
  []
 
 
 Underfull \vbox (badness 1558) has occurred while \output is active []
 
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.163 
+       [5 <./figuras/TESTEVAI.pdf> <./figuras/DistribuicaoANoArtigos.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 1558) has occurred while \output is active []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.176 
+       [6]
+Overfull \hbox (7.98085pt too wide) in paragraph at lines 181--182
+\T1/aer/m/n/9 the COMO (Component-Oriented MOd-ern-iza-tion) meta-model
+ []
+
+) (./tex/threats_to_validity.tex) (./tex/conclusion.tex) (./adm-kdm.bblpdfTeX w
+arning (ext4): destination with the same identifier (name{page.}) has been alre
+ady used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.14 
+      [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -817,21 +847,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.165 
-       [6]) (./tex/threats_to_validity.tex) (./tex/conclusion.texpdfTeX warning
- (ext4): destination with the same identifier (name{page.}) has been already us
-ed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.2 
-     [7]) (./adm-kdm.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.146 
+l.194 
        [8])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
@@ -855,11 +871,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 217.
 Here is how much of TeX's memory you used:
  11025 strings out of 493488
  165012 string characters out of 3141326
- 389696 words of memory out of 3000000
+ 388696 words of memory out of 3000000
  13996 multiletter control sequences out of 15000+200000
  52281 words of font info for 74 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 44i,25n,48p,3259b,610s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,25n,48p,3230b,610s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/tex
 live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texli
@@ -871,10 +887,10 @@ mf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/typ
 e1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on adm-kdm.pdf (9 pages, 458577 bytes).
+Output written on adm-kdm.pdf (9 pages, 456799 bytes).
 PDF statistics:
- 664 PDF objects out of 1000 (max. 8388607)
- 484 compressed objects within 5 object streams
+ 662 PDF objects out of 1000 (max. 8388607)
+ 482 compressed objects within 5 object streams
  67 named destinations out of 1000 (max. 500000)
  151 words of extra memory for PDF output out of 10000 (max. 10000000)
 
