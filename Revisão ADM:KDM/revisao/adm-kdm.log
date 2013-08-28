@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  27 AUG 2013 22:38
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  28 AUG 2013 10:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -700,7 +700,10 @@ Overfull \hbox (2.64337pt too wide) in paragraph at lines 7--8
 
  []
 
-[1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ])
@@ -870,7 +873,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 217.
 Here is how much of TeX's memory you used:
  11025 strings out of 493488
  165012 string characters out of 3141326
- 388696 words of memory out of 3000000
+ 387696 words of memory out of 3000000
  13996 multiletter control sequences out of 15000+200000
  52281 words of font info for 74 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -886,7 +889,7 @@ mf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/typ
 e1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on adm-kdm.pdf (9 pages, 456780 bytes).
+Output written on adm-kdm.pdf (9 pages, 456648 bytes).
 PDF statistics:
  662 PDF objects out of 1000 (max. 8388607)
  482 compressed objects within 5 object streams
