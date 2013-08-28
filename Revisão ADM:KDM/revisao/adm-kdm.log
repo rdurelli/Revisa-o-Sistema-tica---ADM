@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  28 AUG 2013 10:45
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  28 AUG 2013 10:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -689,12 +689,7 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
 LaTeX Warning: No \author given.
 
-(./tex/abstract.tex)
-Overfull \hbox (10.9298pt too wide) in paragraph at lines 177--179
-\T1/aer/m/n/9 Systematic Re-view, Architecture-Driven Mod-ern-iza-tion, ADM,
- []
-
-(./tex/introduction.tex
+(./tex/abstract.tex) (./tex/introduction.tex
 Overfull \hbox (2.64337pt too wide) in paragraph at lines 7--8
 \T1/aer/m/n/9 Evidence-Based Soft-ware En-gi-neer-ing (EBSE) paradigm [[]15[]].
 
@@ -724,8 +719,11 @@ ier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.44 
-      [2 <./figuras/SearchStringADM.pdf>]) (./tex/reporting.tex
-<figuras/MapaNOVO3.pdf, id=92, 867.24pt x 605.26125pt>
+      [2 <./figuras/SearchStringADM.pdf>]
+Underfull \vbox (badness 5802) has occurred while \output is active []
+
+)
+(./tex/reporting.tex <figuras/MapaNOVO3.pdf, id=92, 867.24pt x 605.26125pt>
 File: figuras/MapaNOVO3.pdf Graphic file (type pdf)
 
 <use figuras/MapaNOVO3.pdf>
@@ -889,7 +887,7 @@ mf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/typ
 e1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on adm-kdm.pdf (9 pages, 456648 bytes).
+Output written on adm-kdm.pdf (9 pages, 456593 bytes).
 PDF statistics:
  662 PDF objects out of 1000 (max. 8388607)
  482 compressed objects within 5 object streams

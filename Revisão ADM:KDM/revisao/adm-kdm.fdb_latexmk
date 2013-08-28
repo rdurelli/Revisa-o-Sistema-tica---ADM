@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex adm-kdm"] 1377635905 "adm-kdm.aux" "adm-kdm.bbl" "adm-kdm" 1377679513
+["bibtex adm-kdm"] 1377635905 "adm-kdm.aux" "adm-kdm.bbl" "adm-kdm" 1377679678
   "/usr/local/texlive/2012/texmf-dist/bibtex/bst/base/abbrv.bst" 1292289607 20329 b5fed53e10044d0f8112183785c759b1 ""
   "acmSac2013.bib" 1377602720 121953 cd6c9224d7c8765d458a519706dc44a5 ""
-  "adm-kdm.aux" 1377679513 12066 3882bfd0531420f668493291925b2ac7 ""
+  "adm-kdm.aux" 1377679677 12066 3882bfd0531420f668493291925b2ac7 ""
   "adm-kdm.bcf" 0 -1 0 ""
   (generated)
   "adm-kdm.bbl"
   "adm-kdm.blg"
-["pdflatex"] 1377679510 "adm-kdm.tex" "adm-kdm.pdf" "adm-kdm" 1377679513
-  "./tex/abstract.tex" 1377679498 1733 5624b7fa81734fa910020fcb67cc6633 ""
+["pdflatex"] 1377679677 "adm-kdm.tex" "adm-kdm.pdf" "adm-kdm" 1377679678
+  "./tex/abstract.tex" 1377679627 1730 0e1fd8f472df50876f30e61513a3178e ""
   "./tex/conclusion.tex" 1377635336 8038 23f46db54c8465657d99fb61b08a2e85 ""
   "./tex/conducting.tex" 1377633649 12664 c8ea4e00304d109a541a49cb66ac4bf9 ""
   "./tex/defines.tex" 1367427184 1123 d93d2b3e60f8875a8fcd8407b13a3ce8 ""
@@ -101,9 +101,9 @@
   "/usr/local/texlive/2012/texmf-dist/tex/latex/tools/xspace.sty" 1312409015 4405 b7f0681f78908bf1aa3cd73228e9fd38 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/url/url.sty" 1264379145 21932 e3a9cf32ee9b853b42be14c2f25b873c ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
-  "adm-kdm.aux" 1377679513 12066 3882bfd0531420f668493291925b2ac7 ""
+  "adm-kdm.aux" 1377679677 12066 3882bfd0531420f668493291925b2ac7 ""
   "adm-kdm.bbl" 1377635905 8302 a8fc4ad4c65aef58832a454d4ca8758b "bibtex adm-kdm"
-  "adm-kdm.tex" 1377603022 7344 0e61340853d716f9b9d8fa5dc9a15f89 ""
+  "adm-kdm.tex" 1377679673 7289 59656dc5b1aab029bd4106c4b689f608 ""
   "figuras/DistribuicaoANoArtigos.pdf" 1376489955 26434 0e9a8188ec8a14d8fa61c41ba51c4955 ""
   "figuras/MapaNOVO3.pdf" 1376306288 146623 2afa18cc92f38a888663ff68f5208790 ""
   "figuras/PackagesKDMFormatted.pdf" 1376469919 25378 d45b9370d2e2ab042a33d6449cdd32b0 ""
