@@ -1,18 +1,18 @@
 # Fdb version 3
-["bibtex adm-kdm"] 1377681690 "adm-kdm.aux" "adm-kdm.bbl" "adm-kdm" 1378714996
+["bibtex adm-kdm"] 1377681690 "adm-kdm.aux" "adm-kdm.bbl" "adm-kdm" 1378716372
   "/usr/local/texlive/2012/texmf-dist/bibtex/bst/base/abbrv.bst" 1292289607 20329 b5fed53e10044d0f8112183785c759b1 ""
   "acmSac2013.bib" 1377602720 121953 cd6c9224d7c8765d458a519706dc44a5 ""
-  "adm-kdm.aux" 1378714996 12028 c9054b12a9f76516f4401b25022433e3 ""
+  "adm-kdm.aux" 1378716371 12028 c9054b12a9f76516f4401b25022433e3 ""
   "adm-kdm.bcf" 0 -1 0 ""
   (generated)
   "adm-kdm.bbl"
   "adm-kdm.blg"
-["pdflatex"] 1378714990 "adm-kdm.tex" "adm-kdm.pdf" "adm-kdm" 1378714996
-  "./tex/abstract.tex" 1378714985 1696 1e02513e92ab31b4c1893ded41fe8de3 ""
+["pdflatex"] 1378716366 "adm-kdm.tex" "adm-kdm.pdf" "adm-kdm" 1378716372
+  "./tex/abstract.tex" 1378715157 1707 862288bd6b5782015bd5dafd8c6320b1 ""
   "./tex/conclusion.tex" 1377635336 8038 23f46db54c8465657d99fb61b08a2e85 ""
   "./tex/conducting.tex" 1377633649 12664 c8ea4e00304d109a541a49cb66ac4bf9 ""
   "./tex/defines.tex" 1367427184 1123 d93d2b3e60f8875a8fcd8407b13a3ce8 ""
-  "./tex/introduction.tex" 1377635563 4272 2daf9ef92d71339fbd826614f3b5fc0e ""
+  "./tex/introduction.tex" 1378716341 4203 2763d502186731fb4bfce795bd9e2a2c ""
   "./tex/method_applied.tex" 1378113280 1056 fae7820efc4679708f3c178f7c85f674 ""
   "./tex/planning.tex" 1378114250 9350 535c9d9c0d7f6a0079a9977d04cf170c ""
   "./tex/reporting.tex" 1378113680 27744 8471e25501a8dbeab22b8eb61b685b8e ""
@@ -101,7 +101,7 @@
   "/usr/local/texlive/2012/texmf-dist/tex/latex/tools/xspace.sty" 1312409015 4405 b7f0681f78908bf1aa3cd73228e9fd38 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/url/url.sty" 1264379145 21932 e3a9cf32ee9b853b42be14c2f25b873c ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
-  "adm-kdm.aux" 1378714996 12028 c9054b12a9f76516f4401b25022433e3 ""
+  "adm-kdm.aux" 1378716371 12028 c9054b12a9f76516f4401b25022433e3 ""
   "adm-kdm.bbl" 1377681690 8099 041c48b7b0e76b0d549f74c13e01889f "bibtex adm-kdm"
   "adm-kdm.tex" 1377850054 7283 c535f67457c7c86f115581a5c3e61c5c ""
   "figuras/DistribuicaoANoArtigos.pdf" 1376489955 26434 0e9a8188ec8a14d8fa61c41ba51c4955 ""
