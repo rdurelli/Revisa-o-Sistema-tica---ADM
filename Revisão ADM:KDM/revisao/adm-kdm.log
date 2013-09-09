@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  9 SEP 2013 10:46
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  9 SEP 2013 11:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -703,6 +703,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ])
 (./tex/method_applied.tex) (./tex/planning.tex
+Overfull \hbox (9.00697pt too wide) in paragraph at lines 46--47
+\T1/aer/m/n/9 We used the search string on the fol-low-ing elec-tronic database
+s:
+ []
+
 <figuras/SearchStringADM.pdf, id=44, 706.64pt x 137.51375pt>
 File: figuras/SearchStringADM.pdf Graphic file (type pdf)
 
@@ -822,8 +827,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.176 
-       [6]
+l.178 \subsubsection
+                    {Extension of ADM's metamodels} % (fold) [6]
 Overfull \hbox (7.98085pt too wide) in paragraph at lines 181--182
 \T1/aer/m/n/9 the COMO (Component-Oriented MOd-ern-iza-tion) meta-model
  []
@@ -877,7 +882,7 @@ mf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/typ
 e1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on adm-kdm.pdf (8 pages, 460717 bytes).
+Output written on adm-kdm.pdf (8 pages, 460695 bytes).
 PDF statistics:
  633 PDF objects out of 1000 (max. 8388607)
  465 compressed objects within 5 object streams
