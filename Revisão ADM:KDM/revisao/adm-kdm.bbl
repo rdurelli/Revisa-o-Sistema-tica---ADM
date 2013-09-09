@@ -107,12 +107,6 @@ J.~Moratalla, V.~de~Castro, M.~Sanz, and E.~Marcos.
   Modernization of domain management at red.es.
 \newblock In {\em SRII Global Conf.}, 2012.
 
-\bibitem{Normantas:2012:OKD:2383276.2383286}
-K.~Normantas, S.~Sosunovas, and O.~Vasilecas.
-\newblock An overview of the knowledge discovery meta-model.
-\newblock In {\em 13th Inter. Conf. on Computer Systems and Technologies},
-  2012.
-
 \bibitem{lastDAyOFMyLife}
 K.~Normantas and O.~Vasilecas.
 \newblock Extracting business rules from existing enterprise software system.
@@ -171,6 +165,12 @@ R.~Perez-Castillo, I.~Garcia Rodriguez~de Guzman, M.~Piattini, and M.~Piattini.
 \newblock On the use of adm to contextualize data on legacy source code for
   software modernization.
 \newblock In {\em 16th Work. Conf. on Reverse Engineering}, 2009.
+
+\bibitem{5871783}
+R.~Perez-Castillo, B.~Weber, I.-R. de~Guzman, and M.~Piattini.
+\newblock Process mining through dynamic analysis for modernising legacy
+  systems.
+\newblock {\em Software, IET}, 2011.
 
 \bibitem{Petersen:2008:SMS:2227115.2227123}
 K.~Petersen, R.~Feldt, and M.~Mattsson.

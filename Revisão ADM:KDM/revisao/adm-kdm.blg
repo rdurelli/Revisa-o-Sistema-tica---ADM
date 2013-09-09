@@ -8,37 +8,37 @@ Warning--empty journal in Tilley95perspectiveson
 Warning--empty journal in Wieringa:2005:REP:1107677.1107683
 You've used 34 entries,
             2118 wiz_defined-function locations,
-            675 strings with 11207 characters,
-and the built_in function-call counts, 10512 in all, are:
-= -- 915
-> -- 615
+            674 strings with 11133 characters,
+and the built_in function-call counts, 10509 in all, are:
+= -- 917
+> -- 620
 < -- 1
-+ -- 250
-- -- 206
-* -- 651
-:= -- 1800
++ -- 251
+- -- 208
+* -- 654
+:= -- 1806
 add.period$ -- 104
 call.type$ -- 34
-change.case$ -- 205
+change.case$ -- 206
 chr.to.int$ -- 0
 cite$ -- 37
-duplicate$ -- 447
-empty$ -- 883
-format.name$ -- 206
-if$ -- 2180
+duplicate$ -- 443
+empty$ -- 872
+format.name$ -- 208
+if$ -- 2174
 int.to.chr$ -- 0
 int.to.str$ -- 34
 missing$ -- 34
 newline$ -- 173
 num.names$ -- 68
-pop$ -- 295
+pop$ -- 292
 preamble$ -- 1
-purify$ -- 171
+purify$ -- 172
 quote$ -- 0
 skip$ -- 257
 stack$ -- 0
-substring$ -- 283
-swap$ -- 64
+substring$ -- 282
+swap$ -- 63
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
