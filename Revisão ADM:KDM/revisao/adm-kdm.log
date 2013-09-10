@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 SEP 2013 14:56
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 SEP 2013 15:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -821,12 +821,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.167 
+l.165 
        [5 <./figuras/TESTEVAI.pdf> <./figuras/DistribuicaoANoArtigos.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \hbox (6.78087pt too wide) in paragraph at lines 187--188
+Overfull \hbox (6.78087pt too wide) in paragraph at lines 185--186
 \T1/aer/m/n/9 the COMO (Component-Oriented MOd-ern-iza-tion) meta-model
  []
 
@@ -834,9 +834,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.194 W
-       e also identified a small number of papers that address just the appl...
-[6]) (./tex/discussion.tex) (./tex/principles_findinds.tex
+l.193 
+       [6]) (./tex/discussion.tex) (./tex/principles_findinds.tex
 Overfull \hbox (2.34386pt too wide) in paragraph at lines 1--2
 \T1/aer/m/n/9 platafor-m/ar-chi-tec-ture re-sult-ing in ap-pear-ance of sev-era
 l pro-
@@ -847,25 +846,15 @@ estination with the same identifier (name{page.}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.2 
-     [7]) (./adm-kdm.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.195 \bibitem{6080786}
-                        [8])
+l.5 
+     [7]) (./adm-kdm.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 227.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.227 \end{document}
-                     [9
-
-]
+                     [8]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 227.
  (./adm-kdm.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 227.
@@ -896,10 +885,10 @@ dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist/fo
 nts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/
 urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on adm-kdm.pdf (9 pages, 488975 bytes).
+Output written on adm-kdm.pdf (8 pages, 488464 bytes).
 PDF statistics:
- 654 PDF objects out of 1000 (max. 8388607)
- 484 compressed objects within 5 object streams
+ 651 PDF objects out of 1000 (max. 8388607)
+ 482 compressed objects within 5 object streams
  65 named destinations out of 1000 (max. 500000)
  167 words of extra memory for PDF output out of 10000 (max. 10000000)
 

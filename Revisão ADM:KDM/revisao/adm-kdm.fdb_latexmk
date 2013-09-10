@@ -1,22 +1,22 @@
 # Fdb version 3
-["bibtex adm-kdm"] 1378817804 "adm-kdm.aux" "adm-kdm.bbl" "adm-kdm" 1378817806
+["bibtex adm-kdm"] 1378818314 "adm-kdm.aux" "adm-kdm.bbl" "adm-kdm" 1378818316
   "/usr/local/texlive/2012/texmf-dist/bibtex/bst/base/abbrv.bst" 1292289607 20329 b5fed53e10044d0f8112183785c759b1 ""
   "acmSac2013.bib" 1378814344 122046 8acfe82f6d4138bc6ac2ab3ea8cbd5a7 ""
-  "adm-kdm.aux" 1378817805 12559 ed93435cf3128e5060d47d66048b660a ""
+  "adm-kdm.aux" 1378818316 12559 73e4c8436a973c6f83ca40ac93c59362 ""
   "adm-kdm.bcf" 0 -1 0 ""
   (generated)
   "adm-kdm.bbl"
   "adm-kdm.blg"
-["pdflatex"] 1378817804 "adm-kdm.tex" "adm-kdm.pdf" "adm-kdm" 1378817806
+["pdflatex"] 1378818315 "adm-kdm.tex" "adm-kdm.pdf" "adm-kdm" 1378818316
   "./tex/abstract.tex" 1378736666 1707 862288bd6b5782015bd5dafd8c6320b1 ""
   "./tex/conclusion.tex" 1378805042 8011 9488abff8f99a0e6dcf84278d1ca2af0 ""
-  "./tex/conducting.tex" 1378817783 12523 b0d5071a6b1631caa1fb4209c19b83bd ""
+  "./tex/conducting.tex" 1378817991 12421 28866acf80db5d54ebf324e84b3075bb ""
   "./tex/discussion.tex" 1378814921 185 fdebb93648dccd0f25a28a9c874e5702 ""
   "./tex/introduction.tex" 1378815949 4248 48709ba540f48db4a6f265c680d448d4 ""
   "./tex/method_applied.tex" 1378113280 1056 fae7820efc4679708f3c178f7c85f674 ""
   "./tex/planning.tex" 1378817711 9286 59d1449106d833c317b3b47edd122b5c ""
   "./tex/principles_findinds.tex" 1378803160 4004 a68e64eac55714ce48382dbc203667f8 ""
-  "./tex/reporting.tex" 1378814795 28065 96004e4c1e05e4adb1492ccf992d26d4 ""
+  "./tex/reporting.tex" 1378818307 28064 98466537e7500277eff371bfa925998e ""
   "./tex/threats_to_validity.tex" 1378811726 1693 04bf3f0f20251d54b06bfc1011bf0e3f ""
   "/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2012/texmf-dist/tex/generic/genmisc/nth.sty" 1137109563 1845 5470bde4e3ac5a8928ae0f9e1fbb74b2 ""
@@ -102,8 +102,8 @@
   "/usr/local/texlive/2012/texmf-dist/tex/latex/tools/xspace.sty" 1312409015 4405 b7f0681f78908bf1aa3cd73228e9fd38 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/url/url.sty" 1264379145 21932 e3a9cf32ee9b853b42be14c2f25b873c ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
-  "adm-kdm.aux" 1378817805 12559 ed93435cf3128e5060d47d66048b660a ""
-  "adm-kdm.bbl" 1378817804 7869 9036dc510b979fae00497d00224e8d38 "bibtex adm-kdm"
+  "adm-kdm.aux" 1378818316 12559 73e4c8436a973c6f83ca40ac93c59362 ""
+  "adm-kdm.bbl" 1378818315 7869 9036dc510b979fae00497d00224e8d38 "bibtex adm-kdm"
   "adm-kdm.tex" 1378815369 7541 8f6e701a1c2a62f77705527db212f59e ""
   "figuras/DistribuicaoANoArtigos.pdf" 1376489955 26434 0e9a8188ec8a14d8fa61c41ba51c4955 ""
   "figuras/MapaNOVO4.pdf" 1377681489 151629 e15cd65356cece4b5ea3232f7bcdc493 ""
