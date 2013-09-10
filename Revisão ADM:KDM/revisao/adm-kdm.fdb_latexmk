@@ -1,17 +1,16 @@
 # Fdb version 3
-["bibtex adm-kdm"] 1378811842 "adm-kdm.aux" "adm-kdm.bbl" "adm-kdm" 1378811844
+["bibtex adm-kdm"] 1378814435 "adm-kdm.aux" "adm-kdm.bbl" "adm-kdm" 1378814436
   "/usr/local/texlive/2012/texmf-dist/bibtex/bst/base/abbrv.bst" 1292289607 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "acmSac2013.bib" 1378811840 122123 31d3fbbeff21e50ebce038250b7cd4ce ""
-  "adm-kdm.aux" 1378811843 12473 910c9d82d2c7621e9f2ba48ce153d01b ""
+  "acmSac2013.bib" 1378814344 122046 8acfe82f6d4138bc6ac2ab3ea8cbd5a7 ""
+  "adm-kdm.aux" 1378814436 12473 602a1c2adae519eb466900f8b87e270e ""
   "adm-kdm.bcf" 0 -1 0 ""
   (generated)
   "adm-kdm.bbl"
   "adm-kdm.blg"
-["pdflatex"] 1378811842 "adm-kdm.tex" "adm-kdm.pdf" "adm-kdm" 1378811844
+["pdflatex"] 1378814435 "adm-kdm.tex" "adm-kdm.pdf" "adm-kdm" 1378814436
   "./tex/abstract.tex" 1378736666 1707 862288bd6b5782015bd5dafd8c6320b1 ""
   "./tex/conclusion.tex" 1378805042 8011 9488abff8f99a0e6dcf84278d1ca2af0 ""
   "./tex/conducting.tex" 1378719090 12582 aa405c945afd73e92f6f7ddb1d3bdd2a ""
-  "./tex/defines.tex" 1367427184 1123 d93d2b3e60f8875a8fcd8407b13a3ce8 ""
   "./tex/discussion.tex" 1378811183 321 003911b9bf8fdf80dffe479549256e2b ""
   "./tex/introduction.tex" 1378804045 4201 481806357e57d9069583e89df60986da ""
   "./tex/method_applied.tex" 1378113280 1056 fae7820efc4679708f3c178f7c85f674 ""
@@ -103,16 +102,16 @@
   "/usr/local/texlive/2012/texmf-dist/tex/latex/tools/xspace.sty" 1312409015 4405 b7f0681f78908bf1aa3cd73228e9fd38 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/url/url.sty" 1264379145 21932 e3a9cf32ee9b853b42be14c2f25b873c ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
-  "adm-kdm.aux" 1378811843 12473 910c9d82d2c7621e9f2ba48ce153d01b ""
-  "adm-kdm.bbl" 1378811842 7876 4dbf8bb501479bf3123ad05471305ab4 "bibtex adm-kdm"
-  "adm-kdm.tex" 1378803910 7538 ae716d0db4008fc1b53ab7d8abd20ebc ""
+  "adm-kdm.aux" 1378814436 12473 602a1c2adae519eb466900f8b87e270e ""
+  "adm-kdm.bbl" 1378814435 7869 9036dc510b979fae00497d00224e8d38 "bibtex adm-kdm"
+  "adm-kdm.tex" 1378814433 7507 94cd0b24b9f0a0f55df8137cd46fb34a ""
   "figuras/DistribuicaoANoArtigos.pdf" 1376489955 26434 0e9a8188ec8a14d8fa61c41ba51c4955 ""
   "figuras/MapaNOVO4.pdf" 1377681489 151629 e15cd65356cece4b5ea3232f7bcdc493 ""
   "figuras/PackagesKDMFormatted.pdf" 1376469919 25378 d45b9370d2e2ab042a33d6449cdd32b0 ""
   "figuras/SearchStringADM.pdf" 1373358857 35744 617b795ac4efb7f272ba24e5eb2a3995 ""
   "figuras/TESTEVAI.pdf" 1376490652 24340 7a084b2b17910279455b4dd9b599bb39 ""
   "figuras/pieChartModel.pdf" 1373892069 18445 a0ba88d727a905e3c8c141e98fc8f7b3 ""
-  "sig-alternate.cls" 1376914883 59660 0043b85d599385e40b673bc3325248f8 ""
+  "sig-alternate.cls" 1378813173 59662 b6108822c06f0ddfa22ba063f8d8ef8c ""
   (generated)
   "adm-kdm.aux"
   "adm-kdm.log"

@@ -149,7 +149,7 @@
 \textheight 666pt       % 9 1/4 column height
 \textwidth 42pc         % Width of text line.
                         % For two-column mode:
-\columnsep 2pc          %    Space between columns
+\columnsep 1.8pc          %    Space between columns
 \columnseprule 0pt      %    Width of rule between columns.
 \hfuzz 1pt              % Allow some variation in column width, otherwise it's
                         % too hard to typeset in narrow columns.

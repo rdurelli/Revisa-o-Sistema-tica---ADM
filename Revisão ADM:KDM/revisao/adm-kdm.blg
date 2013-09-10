@@ -8,14 +8,14 @@ Warning--empty booktitle in library7329
 Warning--empty journal in Wieringa:2005:REP:1107677.1107683
 You've used 33 entries,
             2118 wiz_defined-function locations,
-            663 strings with 10962 characters,
-and the built_in function-call counts, 10168 in all, are:
+            662 strings with 10956 characters,
+and the built_in function-call counts, 10166 in all, are:
 = -- 872
 > -- 611
 < -- 1
 + -- 248
 - -- 206
-* -- 623
+* -- 621
 := -- 1748
 add.period$ -- 101
 call.type$ -- 33
