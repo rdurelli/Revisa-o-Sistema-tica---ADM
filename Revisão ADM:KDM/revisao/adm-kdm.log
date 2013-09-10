@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 SEP 2013 14:55
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 SEP 2013 14:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -742,9 +742,9 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.14 
-      [3] <figuras/pieChartModel.pdf, id=108, 273.02pt x 216.81pt>
+      [3] <figuras/pieChartModel.pdf, id=107, 273.02pt x 216.81pt>
 <use figuras/pieChartModel.pdf>
-<figuras/PackagesKDMFormatted.pdf, id=109, 376.40625pt x 246.9225pt>
+<figuras/PackagesKDMFormatted.pdf, id=108, 376.40625pt x 246.9225pt>
 <use figuras/PackagesKDMFormatted.pdf> <use figuras/pieChartModel.pdf>
 <use figuras/PackagesKDMFormatted.pdf>
 File: figuras/pieChartModel.pdf Graphic file (type pdf)
@@ -762,9 +762,9 @@ Overfull \hbox (24.80295pt too wide) in alignment at lines 66--66
 [][][]
  []
 
-<figuras/TESTEVAI.pdf, id=111, 451.6875pt x 563.10374pt>
+<figuras/TESTEVAI.pdf, id=110, 451.6875pt x 563.10374pt>
 <use figuras/TESTEVAI.pdf>
-<figuras/DistribuicaoANoArtigos.pdf, id=112, 439.6425pt x 512.91624pt>
+<figuras/DistribuicaoANoArtigos.pdf, id=111, 439.6425pt x 512.91624pt>
 <use figuras/DistribuicaoANoArtigos.pdf> <use figuras/TESTEVAI.pdf>
 <use figuras/DistribuicaoANoArtigos.pdf>
 File: figuras/TESTEVAI.pdf Graphic file (type pdf)
@@ -834,9 +834,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.191 \subsubsection
-                    {Applicability} % (fold) [6]) (./tex/discussion.tex)
-(./tex/principles_findinds.tex
+l.194 W
+       e also identified a small number of papers that address just the appl...
+[6]) (./tex/discussion.tex) (./tex/principles_findinds.tex
 Overfull \hbox (2.34386pt too wide) in paragraph at lines 1--2
 \T1/aer/m/n/9 platafor-m/ar-chi-tec-ture re-sult-ing in ap-pear-ance of sev-era
 l pro-
@@ -855,8 +855,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.194 
-       [8])
+l.195 \bibitem{6080786}
+                        [8])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 227.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
@@ -886,21 +886,20 @@ Here is how much of TeX's memory you used:
  44i,25n,48p,2346b,610s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/tex
-live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texli
-ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/
-2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/201
-2/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2012/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2012/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2012/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2012/texmf-di
-st/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist/font
-s/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/ur
-w/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/ut
-mri8a.pfb>
-Output written on adm-kdm.pdf (9 pages, 496668 bytes).
+live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
+e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2
+012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2012
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2012/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2012/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2012/texmf-
+dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist/fo
+nts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/
+urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/
+utmri8a.pfb>
+Output written on adm-kdm.pdf (9 pages, 488975 bytes).
 PDF statistics:
- 658 PDF objects out of 1000 (max. 8388607)
- 487 compressed objects within 5 object streams
+ 654 PDF objects out of 1000 (max. 8388607)
+ 484 compressed objects within 5 object streams
  65 named destinations out of 1000 (max. 500000)
  167 words of extra memory for PDF output out of 10000 (max. 10000000)
 
