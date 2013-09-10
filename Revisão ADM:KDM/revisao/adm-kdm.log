@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 SEP 2013 13:15
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 SEP 2013 13:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -870,7 +870,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.129 
+l.128 
        [8])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
@@ -910,7 +910,7 @@ mf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/typ
 e1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on adm-kdm.pdf (9 pages, 465571 bytes).
+Output written on adm-kdm.pdf (9 pages, 465514 bytes).
 PDF statistics:
  650 PDF objects out of 1000 (max. 8388607)
  481 compressed objects within 5 object streams

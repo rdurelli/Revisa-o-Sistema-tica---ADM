@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex adm-kdm"] 1378811534 "adm-kdm.aux" "adm-kdm.bbl" "adm-kdm" 1378811729
+["bibtex adm-kdm"] 1378811842 "adm-kdm.aux" "adm-kdm.bbl" "adm-kdm" 1378811844
   "/usr/local/texlive/2012/texmf-dist/bibtex/bst/base/abbrv.bst" 1292289607 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "acmSac2013.bib" 1378805559 122169 842c1fceb053b2504936b9e6d3608ccf ""
-  "adm-kdm.aux" 1378811729 12473 910c9d82d2c7621e9f2ba48ce153d01b ""
+  "acmSac2013.bib" 1378811840 122123 31d3fbbeff21e50ebce038250b7cd4ce ""
+  "adm-kdm.aux" 1378811843 12473 910c9d82d2c7621e9f2ba48ce153d01b ""
   "adm-kdm.bcf" 0 -1 0 ""
   (generated)
   "adm-kdm.bbl"
   "adm-kdm.blg"
-["pdflatex"] 1378811728 "adm-kdm.tex" "adm-kdm.pdf" "adm-kdm" 1378811729
+["pdflatex"] 1378811842 "adm-kdm.tex" "adm-kdm.pdf" "adm-kdm" 1378811844
   "./tex/abstract.tex" 1378736666 1707 862288bd6b5782015bd5dafd8c6320b1 ""
   "./tex/conclusion.tex" 1378805042 8011 9488abff8f99a0e6dcf84278d1ca2af0 ""
   "./tex/conducting.tex" 1378719090 12582 aa405c945afd73e92f6f7ddb1d3bdd2a ""
@@ -103,8 +103,8 @@
   "/usr/local/texlive/2012/texmf-dist/tex/latex/tools/xspace.sty" 1312409015 4405 b7f0681f78908bf1aa3cd73228e9fd38 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/url/url.sty" 1264379145 21932 e3a9cf32ee9b853b42be14c2f25b873c ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
-  "adm-kdm.aux" 1378811729 12473 910c9d82d2c7621e9f2ba48ce153d01b ""
-  "adm-kdm.bbl" 1378811534 7919 22d8fb2a7648e2f30843608a36081f67 "bibtex adm-kdm"
+  "adm-kdm.aux" 1378811843 12473 910c9d82d2c7621e9f2ba48ce153d01b ""
+  "adm-kdm.bbl" 1378811842 7876 4dbf8bb501479bf3123ad05471305ab4 "bibtex adm-kdm"
   "adm-kdm.tex" 1378803910 7538 ae716d0db4008fc1b53ab7d8abd20ebc ""
   "figuras/DistribuicaoANoArtigos.pdf" 1376489955 26434 0e9a8188ec8a14d8fa61c41ba51c4955 ""
   "figuras/MapaNOVO4.pdf" 1377681489 151629 e15cd65356cece4b5ea3232f7bcdc493 ""
