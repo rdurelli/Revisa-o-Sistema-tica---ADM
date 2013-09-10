@@ -6,45 +6,45 @@ Database file #1: acmSac2013.bib
 Warning--empty booktitle in ICEISPerez:CastilloGCP12
 Warning--empty booktitle in library7329
 Warning--empty journal in Wieringa:2005:REP:1107677.1107683
-You've used 33 entries,
+You've used 34 entries,
             2118 wiz_defined-function locations,
-            662 strings with 10956 characters,
-and the built_in function-call counts, 10166 in all, are:
-= -- 872
-> -- 611
+            666 strings with 11108 characters,
+and the built_in function-call counts, 10438 in all, are:
+= -- 895
+> -- 624
 < -- 1
-+ -- 248
-- -- 206
-* -- 621
-:= -- 1748
-add.period$ -- 101
-call.type$ -- 33
-change.case$ -- 201
++ -- 253
+- -- 210
+* -- 634
+:= -- 1793
+add.period$ -- 104
+call.type$ -- 34
+change.case$ -- 206
 chr.to.int$ -- 0
-cite$ -- 36
-duplicate$ -- 436
-empty$ -- 852
-format.name$ -- 206
-if$ -- 2108
+cite$ -- 37
+duplicate$ -- 450
+empty$ -- 880
+format.name$ -- 210
+if$ -- 2167
 int.to.chr$ -- 0
-int.to.str$ -- 33
-missing$ -- 34
-newline$ -- 168
-num.names$ -- 66
-pop$ -- 299
+int.to.str$ -- 34
+missing$ -- 35
+newline$ -- 173
+num.names$ -- 68
+pop$ -- 308
 preamble$ -- 1
-purify$ -- 169
+purify$ -- 173
 quote$ -- 0
-skip$ -- 247
+skip$ -- 255
 stack$ -- 0
-substring$ -- 233
-swap$ -- 63
+substring$ -- 238
+swap$ -- 65
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 130
+type$ -- 134
 warning$ -- 3
-while$ -- 70
-width$ -- 35
-write$ -- 334
+while$ -- 72
+width$ -- 36
+write$ -- 344
 (There were 3 warnings)

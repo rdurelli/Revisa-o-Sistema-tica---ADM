@@ -17,6 +17,12 @@ G.~Boussaidi, A.~Belle, S.~Vaucher, and H.~Mili.
 \newblock Reconstructing architectural views from legacy systems.
 \newblock In {\em Reverse Engineering, 19th Work. Conf. on}, 2012.
 
+\bibitem{4335247}
+A.~Braganca and R.~Machado.
+\newblock Model driven development of software product lines.
+\newblock In {\em 6th Inter. Conf. on the Quality of Information and
+  Communications}, 2007.
+
 \bibitem{Bruneliere:2010:MGE:1858996.1859032}
 H.~Bruneliere, J.~Cabot, F.~Jouault, and F.~Madiot.
 \newblock Modisco: a generic and extensible framework for model driven reverse
