@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 SEP 2013 11:33
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 SEP 2013 13:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -857,23 +857,20 @@ Overfull \hbox (3.54384pt too wide) in paragraph at lines 1--2
 l pro-
  []
 
-) (./tex/threats_to_validity.tex)
+) (./tex/threats_to_validity.tex) (./tex/conclusion.texpdfTeX warning (ext4): d
+estination with the same identifier (name{page.}) has been already used, duplic
+ate ignored
+<to be read again> 
+                   \relax 
+l.2 
+     [7]) (./adm-kdm.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.216 \section{Concluding Remarks}
-                                  \label{conclusion} [7] (./tex/conclusion.tex)
-(./adm-kdm.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.121 
+l.129 
        [8])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
@@ -913,7 +910,7 @@ mf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/typ
 e1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on adm-kdm.pdf (9 pages, 465733 bytes).
+Output written on adm-kdm.pdf (9 pages, 465571 bytes).
 PDF statistics:
  650 PDF objects out of 1000 (max. 8388607)
  481 compressed objects within 5 object streams
