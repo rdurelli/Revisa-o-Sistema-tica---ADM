@@ -72,7 +72,7 @@
 \begin_inset Text
 
 \begin_layout Plain Layout
-Category
+Cat.
 \end_layout
 
 \end_inset
@@ -106,7 +106,7 @@ Website
 </cell>
 </row>
 <row>
-<cell multirow="3" alignment="left" valignment="middle" topline="true" leftline="true" usebox="none">
+<cell multirow="3" alignment="left" valignment="middle" topline="true" leftline="true" rotate="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -334,7 +334,7 @@ eclipse.org/MoDisco/
 </cell>
 </row>
 <row>
-<cell multirow="3" alignment="left" valignment="middle" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell multirow="3" alignment="left" valignment="middle" topline="true" bottomline="true" leftline="true" rotate="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
