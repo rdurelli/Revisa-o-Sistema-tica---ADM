@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 SEP 2013 14:54
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 SEP 2013 14:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -726,9 +726,9 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 ier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.47 
-      [2 <./figuras/SearchStringADM.pdf>]) (./tex/reporting.tex
-<figuras/MapaNOVO4.pdf, id=86, 795.97375pt x 624.3325pt>
+l.48 \subsubsection
+                   {Focus Area} [2 <./figuras/SearchStringADM.pdf>])
+(./tex/reporting.tex <figuras/MapaNOVO4.pdf, id=86, 795.97375pt x 624.3325pt>
 File: figuras/MapaNOVO4.pdf Graphic file (type pdf)
 
 <use figuras/MapaNOVO4.pdf>
@@ -762,10 +762,6 @@ Overfull \hbox (24.80295pt too wide) in alignment at lines 66--66
 [][][]
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 <figuras/TESTEVAI.pdf, id=111, 451.6875pt x 563.10374pt>
 <use figuras/TESTEVAI.pdf>
 <figuras/DistribuicaoANoArtigos.pdf, id=112, 439.6425pt x 512.91624pt>
@@ -785,6 +781,9 @@ Package pdftex.def Info: figuras/DistribuicaoANoArtigos.pdf used on input line
 Overfull \hbox (16.26703pt too wide) in alignment at lines 83--83
 [][][]
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
@@ -835,8 +834,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.188 
-       [6]) (./tex/discussion.tex) (./tex/principles_findinds.tex
+l.191 \subsubsection
+                    {Applicability} % (fold) [6]) (./tex/discussion.tex)
+(./tex/principles_findinds.tex
 Overfull \hbox (2.34386pt too wide) in paragraph at lines 1--2
 \T1/aer/m/n/9 platafor-m/ar-chi-tec-ture re-sult-ing in ap-pear-ance of sev-era
 l pro-
@@ -855,7 +855,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.188 
+l.194 
        [8])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 227.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
@@ -897,7 +897,7 @@ st/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist/font
 s/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/ur
 w/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/ut
 mri8a.pfb>
-Output written on adm-kdm.pdf (9 pages, 496770 bytes).
+Output written on adm-kdm.pdf (9 pages, 496668 bytes).
 PDF statistics:
  658 PDF objects out of 1000 (max. 8388607)
  487 compressed objects within 5 object streams
